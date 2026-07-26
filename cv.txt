@@ -1,0 +1,1740 @@
+Curriculum Vitae of Narasimharaju B.L     
+Professor of Electrical Engineering
+Dept. of Electrical Engineering
+National Institute of Technology Warangal                                             
+Warangal-506104, Telangana, INDIA
+Adjunct Professor, SRM University, Amaravathi, Andhra Pradesh
+Contact No: +91-870-2462247 (o)
+Email: blnraju@nitw.ac.in                                                                       
+-----------------------------------------------------------------------------------------------------------------------------
+Areas of Research Interest : 
+Solar Electronics- Solar powered LED Lighting Systems, Solar-powered Water Pumping System.   Solar-PV Inverters for EV-Propulsion/UPS/Grid Applications, E-Mobility, Induction Heating,
+Bidirectional Power Electronic Converters for Battery Storage integration in LED lights/UPS/EV Charging/Renewable Power Generation.
+High frequency Magnetic Designs, Modelling and analysis of Power converters, AC Grid Interactive converters.
+Academic Record
+Degree
+Board Institution/University
+Year
+Specialization/Subjects/Topic
+B.E
+UVCE Bangalore
+1999
+Electrical & Electronics Engineering.
+M.E
+UVCE Bangalore
+2002
+Power Electronics 
+Ph.D
+IIT Roorkee, 01/01/2009 to 17/11/2011
+2012
+An Improved Bi-Directional Converter 
+Work Experience: Research/Teaching/Training: 24+ years
+Institution/ Organization name
+Date of joining
+Date of leaving
+Designation
+Period of experience
+Y-Years, M-Months, D-Days
+SRM University AP
+17-11-2023
+Continuing
+Adjunct Professor
+
+NIT Warangal
+18/07/2022
+Continuing 
+Professor
+
+NIT Warangal
+25-11-2022
+30-06-2024 
+HoD, EE
+
+NIT Warangal
+27/03/2018
+17/07/2022
+Associate Professor
+04Y :: 04M :: 20D
+NIT Warangal
+01/06/2012
+26/03/2018
+Assistant Professor
+05Y :: 09M :: 25D
+MIT Manipal
+20/08/2003
+31/05/2012
+Assistant Professor  
+08Y :: 10M :: 11D
+IIT Roorkee
+01/01/2009
+17/11/2011
+Research Scholar (PhD)
+02Y :: 10M :: 17D
+UVCE Bangalore
+09/04/2002
+19/08/2003
+Teaching Assistant
+01Y :: 04M :: 10D
+LRDE, DRDO Bangalore
+August 2001
+April 2002
+Project Trainee
+00Y :: 09M :: 00D
+
+
+
+
+Details of Project Work 
+M.E (Masters Degree Dissertation): Design of Current Mode Controlled 50 kHz Fly-Back 
+ Regulator Power Supply for Travelling Wave Tube (TWT)   
+Project Guide: Sri. G.S.N. Raju, Sc.G, Additional Director, LRDE, Ministry of Defence, Bangalore-93
+
+Description: The objective of this project is to achieve optimal design to get improved performance and to realize in compact size, also this provides well-organized useful information for the design engineer who wants to understand the current mode-controlled power converter. A medium voltage source capable of maintaining constant current, mainly towards realize the scale down power supply, has been studied practically and implemented. The project was quite successful and the developed supply is used as filament supply in Radar applications. 
+
+Ph.D Doctoral Thesis: An Improved Bi-directional Converter 
+Thesis Supervisors: Prof. S. P. Singh & Dr. S. P Dubey, IIT Roorkee. 
+Description: The battery backup system is very essential for several applications such as DC-UPS systems, automotive power management, telecommunications, and renewable energy application.  The back-up batteries have to be charged and discharged depending on the bus power demand. Therefore, the Bidirectional DC to DC (BDC) converters are very attractive for these battery backup systems. The BDC converter is required to transform the low battery voltage to a suitable and much higher DC link voltage However, the key challenge lies in providing an efficient and scaled own BDC converter with input and output voltage conversion for such applications where low voltage batteries are used. The objective of thesis work is to present a cost effective, scaled down and high efficiency BDC converter for efficient use of the energy storage system. Therefore, the thesis work is specifically concerned with developing an improved BDC converter for discharge /charge application using a low cost PWM IC’s controller, and to validate the performance experimentally. The thesis work presented an improved BDC converter using coupled inductor concept, which provides high efficiency with voltage diversity as compared to the conventional buck and boost derived BDC converter. Thesis work address the design, modelling, control, stability issues and further improvised version of the proposed BDC converter. The prototype of BDC converter is developed and the validated experimentally.
+Teaching Courses:
+S. No.
+                   Course Title
+ UG/PG
+
+ Basic Electronics 
+  UG
+
+ Power Electronics
+  UG
+
+ Basic Electrical Science / Basic Electrical Technology Basic Electrical Engineering 
+  UG
+
+  Networks Theory / Electrical Networks Analysis / Circuit Theory–I & Circuit Theory–II 
+  UG
+
+  Control Systems 
+  UG
+
+  Modern Power Converters 
+  UG
+
+  Solid State Drives 
+  UG
+
+  Electric Traction & Drives 
+ UG
+
+ Renewable Energy Systems 
+ UG
+
+  Advanced Power Electronics Converters
+PG/PhD
+
+  Advanced Power Electronics – II 
+PG/PhD
+
+  Advanced Power Electronics – I 
+PG/PhD
+
+ Analysis of Power Converters 
+PG/PhD
+
+Year Wise Courses Taught and Currently Being Taught, Since 2012
+Academic Year / Sem
+Classes
+UG / PG
+Semester
+Course
+ID
+Credits
+Course Name
+2012-13,
+I Sem
+II B.Tech (EEE) A & B Sec
+UG
+III
+EE202
+3+3
+Circuit Theory –I
+
+I M.Tech (PED)
+PG
+I
+EE5105
+2
+Digital Signal Processing Lab
+
+II B.Tech (Chemical Engg.)
+UG
+III
+
+2
+Basic Electrical Engineering Lab
+
+II B.Tech (Met. Engg.)
+UG
+III
+
+2
+Basic Electrical Engineering Lab
+2012 - 13, II Sem
+II B.Tech (EEE), B Sec
+UG
+IV
+EE251
+4
+Circuit Theory –II
+
+III B. Tech (EEE) A & B Sec
+UG
+VI
+EE355
+2
+Control System Lab (In-Charge)
+2013 - 14, I Sem
+II B.Tech (EEE), A & B Sec
+UG
+III
+EE202
+3+3
+Circuit Theory –I
+
+II B.Tech (Met. Engg), Sec-B
+UG
+III
+
+2
+Basic Electrical Engineering Lab  (In-Charge)
+
+III B.Tech (EEE)
+UG
+V
+EE305
+2
+Circuit Lab, In-charge
+2013-14,  II Sem
+I M.Tech (EEE)
+PG
+II
+EE5155
+2
+Power Electronics Simulation Lab
+
+II B.Tech (EEE), Sec – B
+UG
+III
+EE251
+4
+Circuit Theory – II
+
+III B.Tech (EEE)
+UG
+VI
+EE355
+2
+Control System Lab    (In-Charge)
+2014-15, I Sem
+II B.Tech (EEE),  Sec-A & B
+UG
+III
+EE202
+3+3
+Circuits Theory – I
+
+III B. Tech (EEE) Sec- A & B
+UG
+V
+EE305
+2
+Circuits Lab  (In-Charge)
+
+IV B.Tech (EEE), Sec- A & B
+UG
+VII
+EE449
+2+2
+Project Work Part-A  Evaluations
+2014-15, II Sem
+I M.Tech (PED)
+PG
+II
+EE5152
+4
+Advanced Power Electronics – II
+
+IV B.Tech (EEE), Sec- A & B
+UG
+VIII
+EE468
+3
+Renewable Energy Systems (E)
+
+IV B.Tech (EEE), Sec- A & B
+UG
+VIII
+EE499
+4+4
+Project Work Part-B  Evaluations
+
+III B.Tech (EEE), Sec- A & B
+UG
+VI
+EE355
+2
+Control Systems Lab (In-Charge)
+2015-16 I Sem
+I. M.Tech (PED)
+PG
+I
+EE5102
+4
+Advanced Power Electronics – I
+
+I B.Tech  Sec-M, 85  students
+UG
+I
+EE101
+3
+Basic Electrical Engineering
+
+III B.Tech (EEE)
+UG
+V
+EE305
+2
+Circuits System Lab
+2015-16, II Sem
+I B.Tech (Physics Cycle), 2 -Secs. (A&F), 140 students
+UG
+II
+EE102
+3+3
+Basic Electrical Engineering
+
+III B.Tech (EEE),  70 students
+UG
+VI
+EE355
+2
+Control Systems Lab
+2016-17, I Sem
+I B.Tech (Chemistry Cycle), 2-Secs ( G&N), 146 students
+UG
+I
+EE101
+3+3
+Basic Electrical Engineering
+
+III B.Tech (EEE), 120 Students
+UG
+V
+EE305
+2
+Circuits Lab (In-Charge)
+2016-17, II Sem
+I B.Tech (Chemistry Cycle), 2-Secs ( B&C), 146 students
+UG
+II
+EE101
+3+3
+Basic Electrical Engineering
+
+III B.Tech (EEE), 120 Students
+UG
+VI
+EE355
+2
+Control Systems Lab (In-Charge)
+2017-18, I Sem
+I B.Tech (Chemistry Cycle), 2-Secs ( G&M), 149 students
+UG
+I
+EE101
+3+3
+Basic Electrical Engineering
+
+III B.Tech (EEE),  140 students
+UG
+V
+EE305
+2
+Circuits Lab (In-Charge)
+
+II M.Tech (PED),  35
+PG
+III
+EE6142
+EE 6149
+4+8
+Part-A project  work Evaluation
+Comprehensive Viva-voce
+Dissertation-Part-A
+
+I M.Tech (PED),  35
+PG
+I
+EE5141
+1
+Seminar-I, Evaluation
+2017-18, II Sem
+II B.Tech (EEE), Sec – B
+UG
+IV
+EE251
+4
+Circuit Theory – II
+
+I B.Tech (Chemistry Cycle), Sec- B, 76 students
+UG
+II
+EE101
+3
+Basic Electrical Engineering
+
+III B.Tech (EEE), 35 Students
+UG
+VI
+EE355
+2
+Control Systems Lab (In-Charge)
+
+II M.Tech (PED),  35
+PG
+III
+EE6142
+EE 6149
+18
+Part-B Dissertation Evaluation
+Dissertation-Part-B
+2018-19, I Sem
+III B.Tech (EEE), 66 Students
+UG
+V
+EE301
+4
+Control Systems
+
+III B.Tech (EEE), 33 Students
+UG
+V
+EE355
+2
+Circuits Lab 
+
+II B.Tech (MMED), 46 Students
+UG
+III
+
+2
+Basic Electrical Engineering Lab
+
+IV B.Tech (EEE), 141 Students
+UG
+VII
+EE449
+4
+ Project Work Part-A Evaluations
+2018-19, 
+II-Sem
+II B.Tech (EEE), Sec – B
+UG
+IV
+EE251
+4
+Circuit Theory – II
+
+I B.Tech (Chemistry Cycle), Sec- D, 76 students
+UG
+II
+EE101
+3
+Basic Electrical Engineering
+
+III B.Tech (EEE), 35 Students
+UG
+VI
+EE355
+2
+Control Systems Lab 
+
+IV B.Tech (EEE), 141 Students
+UG
+VIII
+EE449
+6
+ Project Work Part-B,Chairman, Evaluations
+2019-20, I Sem
+ III B.Tech (EEE),  Sec-B
+ UG
+
+ EE301
+ 4
+   Control Systems
+
+ I B.Tech (Chem) ,  Sec-M-,80
+ UG
+
+ EE101
+ 3
+ Basic Electrical Engineering
+
+III B.Tech (EEE),  Sec-A
+UG
+
+
+ 2
+ Electrical Simulation Lab
+2019-20 Sem-2   
+ III B.Tech (EEE),  Sec-B
+ UG
+
+ EE301
+ 4
+ Circuit Theory – II
+
+ I B.Tech (Chem) ,  Sec-M-,80
+ UG
+
+ EE101
+ 2
+EC Lab
+
+III B.Tech (EEE),  Sec-A
+UG
+
+ 
+ 2
+Control Systems
+2020-21, Sem-I
+III B.Tech (EEE),  Sec-A
+
+
+
+ 4
+ Control Systems 
+
+ III BTech-EEE, A-Sec
+
+
+
+2
+ Electrical Simulation Lab
+
+IV BTech-EEE, A-Sec
+
+
+
+2
+ Embedded Systems Lab 
+2020-21, Sem-2
+ II BTech-EEE, A&B-Sec
+
+
+
+4 +4
+ Circuits Theory-II
+
+ III BTech-EEE, A-Sec
+
+
+
+ 1
+ Seminar
+2021-22, Sem-1
+ I-MTech-PED & PSE, PhD students
+ PG
+ I-Sem
+EE5101
+ 3+3
+ Analysis of Power Converters
+
+ I-MTech-PED
+PG
+ I-Sem
+EE5106
+2
+ Power Electronics Simulation Lab
+
+ IV-BTech-EEE
+ UG
+ Sem-I
+ EE404
+ 2
+ Embedded Systems Lab
+2021-22, Sem-2
+ I-BTech-BioTech
+  UG
+ Sem-II
+ EE131
+ 3
+ Basic Electrical Engineering
+
+ III-BTech-EEE A-Sec
+  UG
+  Sem-II
+ EE341
+ 1
+Seminar
+
+III-BTeh-EEE
+ UG
+Sem-II
+ EE357
+ 2
+Electrical Machines Lab-II
+
+Publications/Presentations: 
+Papers in refereed journals: 
+
+
+M. F Baba, Raviteja P, S.V.K. Naresh, Ashok Kumar K, A. V Giridhar, B. L Narasimharaju, Atif Iqbal, A Dual Switched Inductor-Switched Capacitor Based High Gain Converter for Green Energy Micro Source Applications, By IEEE, IEEE Access, vol. Issue: , March 2026, pp.1-19, 2026
+Jayasri Boda, A. V. Giridhar, B. L. Narasimharaju, A High Step-up Single-switch based Cubic-gain DC–DC Converter for PV Applications, By, IEEE, IEEE Latin America Transactions, vol. No: , March 2026, pp., 2026
+Isac Daimary, Rajib J, Narasimharaju B.L, (July 2025) "Sliding Mode Control of Coupled Inductor-Based Multiport Buck Converter for Mitigating Cross-Regulation and Cross-Coupling Issues”, IEEE Transactions on Industry Applications, Vol.62, No.2, April 2026, pp.2768-2780, 2026. https://doi.org/10.1109/TIA.2025.3599809
+Raviteja P, B.L Narasimharaju, A Primary Ended Switched Inductor-Switched Capacitor based High Gain DC-DC Converter, Wiley, International Journal of Circuit Theory and Applications., vol. Dec 2025, pp.1-19, 2025. 
+Raviteja P, B.L Narasimharaju, S.V.K. Naresh, "A P-type Modified Quadratic Boost based High gain Converter for DC Micro grids", IEEE Latin America Transactions, vol. 23, no. 11, pp. 1036-1049, Nov. 2025.  https://doi.org/10.1109/TLA.2025.11194769 
+M F Baba, A V Giridhar, B L Narasimharaju, Harish S Krishnamoorthy, “An Ultra High Gain Switched-Capacitor Boost DC-DC Converter with Reduced Ripple Current, IEEE Latin America Transactions, vol.22, No.11, pp.920-932, Nov 2024. https://doi.org/10.1109/TLA.2024.10735444 
+K Ashok Kumar & Narasimharaju B.L, A wide voltage range non-isolated continuous input buck-boost converter for optimal green energy harvesting in LED lighting systems, Wiley, International Journal of Circuit Theory and Applications., vol., pp.1-19, 2024. https://doi.org/10.1002/cta.4238 
+Isac Daimary, Rajib Jana, Narasimharaju B.L, An Optimal Feedforward Circuit with Null Audio Susceptibility in Feedback Controlled Buck Converter", Wiley, International Journal of Circuit Theory and Applications., vol., pp.1-19, 2024. Early access. https://doi.org/10.1002/cta.4068 
+K Ashok Kumar & Narasimharaju B.L, Performance Analysis of a Bridgeless Pfc Buck-Boost Led Driver with Ripple Diversion Scheme for Extended Life Span, Wiley, International Journal of Circuit Theory and Applications, Vol.52, No.8, August 2024, Pages 3870-3888. https://doi.org/10.1002/cta.3945 
+M. F Baba, A. V Giridhar, Narasimharaju B.L, (25 October 2023) "A Wide Voltage Range Bidirectional High Voltage Transfer Ratio Quadratic Boost DC-DC converter for EVs with Hybrid Energy Sources," IEEE Journal of Emerging and Selected Topics in Industrial Electronics, Vol.5, No.2, April-2024, pp.521-530. 
+D. Raveendhra, R.Poojitha, Narasimharaju B.L, Alexander D, Aliona D, Minh H. D, Mukesh P, F.Liu, D Sidorov, Part-II: State-of-the-Art technologies of Solar Powered DC Microgrid with Hybrid Energy Storage Systems: Converter Topologies, Energies 2023. 16(17), 6194, pp.1-34; https://doi.org/10.3390/en16176194 
+Dogga Raveendhra, Poojitha Rajana, Narasimharaju B.L, Dreglea I. Aliona, Fang Liu, Daniil Panasetsky, Mukesh Pathak, Denis Sidorov*, "Part-I: State-of-the-Art Technologies of Solar Powered DC Microgrid with Hybrid Energy Storage Systems-Architecture Topologies", Energies 2023, vol.16(2), No.923, pp.01-21, https://doi.org/10.3390/en16020923 
+S. Madhu Babu, Narasimharaju B.L, A New Generalized Symmetrical/Asymmetrical Boost Integrated Multilevel Inverter with Reduced Components for PV/UPS Applications, T&F International Journal of Electronics, 11 Jan 2023, PP. 1-24, 
+Vijaya Vardhan Reddy P, Narasimharaju B.L, Suryavamshi H. M, (Sept -2023) Implementation of Dual Control MPPT-based DC-DC Converter fed Solar PV Power Application" IEEE Transactions on Industrial Electronics, 2022; Vol.70, no.09, pp.9016-9024 
+M. F Baba, A. V Giridhar, Narasimharaju B.L, (10 September 2022), Active Switched Capacitor based Ultra Voltage Gain Quadratic Boost DC-DC Converters, Int. Journal of Circuit Theory & Applications, Wiley Publishers, Vol.51, no.03, March 2023,,pp.1389-1416.  
+Dogga Raveendhra, Poojitha Rajana, Beeramangalla Lakshminarasaiah Narasimharaju, Babu Y Sur, Eugen Rusu, Fayek H Hady, (18 April 2022), Analysis and Operation of High DC-AC Gain 3-Phase Capacitor Clamped Boost Inverter,  Energies 2022, 15(8), 2955. 
+M. F Baba, A. V Giridhar, B. L Narasimharaju, (18 April 2022), "Nonisolated High Gain Hybrid Switched-Inductor DC-DC Converter with Common Switch Grounding, Int. Journal of Circuit Theory & Applications, Wiley Publishers, 2022; Vol.50, no.08, pp.2810-2828.   
+S. Madhu Babu, Narasimharaju B. L, Akshay K Rathore, (Oct-2021) "A New Buck-boost Integrated Multilevel Inverter with Reduced Capacitors and Capacitor Size for Low-frequency AC Applications" International Transactions on Electrical Energy Systems, Wiley, 2021; Vol.31, no.12,  pp.1-10.
+Vijay Babu K, Narasimharaju.B.L, D. M. Vinod Kumar, (2021),  Performance Investigation on ANFIS and FFNN Assisted Direct and Indirect PV-fed Switched Reluctance Motor Water Pumping System,' International Journal of Modelling and Simulation, Vol.42, No.2, pp.255-267, 27 Jan 2021. 
+VVK Satyakar , S Porpandiselvi, B. L. Narasimharaju, (2021), A Non-Isolated Wide Input Series Resonant converter for automotive LED Lighting System, Trans. on IEEE Power Electronics,  vol. 36, no. 5, pp. 5686-5699, May 2021.
+Koyelia Khatun, Venkata Ratnam Vakacharla, Akshay K. Rathore, B L Narasimharaju, (2020), “Small Signal Analysis and Control of Soft-Switching Naturally-Clamped Snubberless Current-Fed Half-Bridge DC/DC Converter” Journal of Applied Science (MDPI), Special Issue "10th Anniversary of Applied Sciences: Invited Paper in Energy Section, Vol.10, No.17, 2020, pp.1-19, SCI-E, Scopus (Elsevier), Web of Science, IF: 2.702.
+Venkata. R. Vakacharla, K. Gnana, P. Xuewei, B. L. Narasimaharaju, Mangu Bhukya, Atanu Banerjee, Renu Sharma, Akshay K Rathore (2020) “State-of-the-art Power Electronics Systems for Solar-to-Grid Integration”, Solar Energy, Journal of the International Solar Energy Society, Elsevier, Vol. 210 , No. 1, Nov 2020, pp.128-148, Invited Paper, IF:4.807, SCI-E, Scopus (Elsevier), Web of Science.
+S. Madhu Babu, Narasimharaju B. L, (2020), Single-phase Boost DC-link Integrated Cascaded Multilevel Inverter for PV Applications, IET Power Electronics, Vol.13 , No. 10, pp. 2086-2095, 5 -Aug- 2020. 
+V K Satyakar Veeramallu , S Porpandiselvi, B. L. Narasimharaju, (2020), A Buck-Boost Integrated High Gain Non-Isolated Half-bridge Series Resonant Converter for Solar PV/Battery fed Multiple Load LED Lighting Applications, Int. Journal of Circuit Theory and Applications, Wiley Publishers, 2020; Vol.48, No. pp.266–285.
+V K Satyakar Veeramallu , S Porpandiselvi, B. L. Narasimharaju, (2019) “Analysis and Implementation of Soft Switched Bi-directional Buck-Boost DC-DC Converter for Solar PV fed LED Street Lighting Systems”, Int. Journal of Circuit Theory and Applications, Wiley Publishers, Vol.47. No.12, 2019, pp.1990-2018.
+Narasimharaju.B.L, Ramanjaneya Reddy U, Raveendra Dogga, (July 2018), “Design and Analysis of Voltage Clamped Bidirectional DC-DC Converter for Energy Storage Applications, IET Journal of Engineering,  Volume 2018, Issue 7, July 2018, pp. 367-374.
+Vijay Babu K, Narasimharaju B. L, D. M. Vinod Kumar, (2017) "Performance Investigation of Simplified PWM MPPT Approach for Direct PV-fed Switched Reluctance Motor in Water Pumping System", IET Electric Power Applications,  Vol.11, No.9, 2017, pp.1645 - 1655.
+Ramanjaneya Reddy U, Narasimharaju.B.L, Vijay Babu K "( Dec 2016) High step-down Dual output Light Emitting diode driver,   Int., Journal Of Renewable Energy Research  (IJRER), Vol.7, No.1, 2017, pp.157-169.
+Ramanjaneya Reddy U, Narasimharaju.B.L, (Nov 2016)"A Cost Effective Zero Voltage Switching Dual Output LED Driver", Trans. on IEEE Power Electronics, Vol.32, No.10, 2017, pp.7941-7953, Oct 2017.
+Ramanjaneya Reddy U, Narasimharaju.B.L, (Sept 2016) "Single-Stage Electrolytic Capacitor less Non-Inverting Buck-Boost PFC Based AC-DC Ripple Free LED Driver", IET Power Electronics, Vol.10, No.1, pp. 38-46, Jan 2017.
+Ramanjaneya Reddy U, Narasimharaju.B.L, (July 2016) "Improved Efficiency Coupled Inductor-Buck AC-DC Light Emitting Diode (LED) Driver", IEICE Electronics Express (ELEX), Vol.13, No.16,  2016, pp.1-6.
+Vijay Babu K, Narasimharaju.B.L, D. M. Vinod Kumar, (2016) "Performance Evaluation of Switched Reluctance Motor PWM Control in PV-fed Water Pump System", Int., Journal of Renewable Energy Research (IJRER), Vol.6, No.3, 2016, pp. 941-950.
+Vijay Babu K, Narasimharaju.B.L, D. M. Vinod Kumar, (2015) "Switched Reluctance Machine for Off-Grid Rural Applications: A Review", Taylors & Francis- IETE Technical Review, Vol.33, No 2, Dec 2015, pp. 1-13.  IF:0.888,  (date: 31 October 2015)
+Narasimharaju.B.L, S. P. Dubey, S.P.Singh, (2012) Design and Analysis of Coupled Inductor Bidirectional DC-DC Convertor for High Voltage Diversity Applications", IET Power Electronics, Vol. 5, Iss.7, pp. 998-1007, 2012. IF :3.547.
+Narasimharaju B.L, et. al.  (2015) " Space-vector pulse width modulation Scheme for Open-end Winding Induction Motor Drive Configuration”, IET Power Electronics, Vol.8, No.7, pp. 1083-1094. IF-2.0.
+https://doi.org/10.1049/iet-pel.2014.0396 
+Ramanjaneya Reddy Udumula, Narasimharaju B L, Asif Md, (2018) “Voltage Mode Control DCM HSD-CIB PFC Converter for HB-LED Lighting Applications”  (Open Access, WoS) Journal of Power Technologies 98 (4) (2018) Pp.305–313.
+
+Scopus & Non-SCI peer reviewed international / national Journals: 06        
+ 
+Narasimharaju B. L, Divya Porika, Ramanjaneya Reddy U, Vijaybabu Koreboina, Satya Prakash Dubey, (2016) "Bidirectional AC-DC Converter and DC-DC Converter for Charge/Discharge Applications", (RIJEEE), Publishing India Group Vol.1, No.2, 2016, pp.11-17. 
+Narasimharaju B.L., et. al.  (2015), Space-vector Based Equal Switching Strategy for Three-level Open- end Winding Induction Motor Drive, The Journal of CPRI, Vol.10, No.2, pp.287-294, June 2014.  https://cprijournal.in/index.php/pr/article/view/815 , 
+Narasimharaju B.L., et. al., A new alternate Fixed-bias inverter SVPWM scheme for open-end winding induction motor drive, Int. Review of Electrical Engineering, Vol.9, No.1, pp.1-6, Feb 2014. IF– 3.1 (0.57)
+https://www.praiseworthyprize.org/jsm/index.php?journal=iree&page=article&op=view&path%5B%5D=14962 
+Narasimharaju B.L., et. al., Investigation of Device Temperature on Power Electronics Switches used in open-end winding induction motor drive for Alternate fixed-bias inverter scheme, International Review of Electrical Engineering, Vol. 9, No. 1, pp. 36 - 41, Feb 2014. IF-3.1 (0.57). 
+https://www.praiseworthyprize.org/jsm/index.php?journal=iree&page=article&op=view&path%5B%5D=14962 
+Narasimharaju.B.L,  S. P. Dubey, S. P. Singh, (2011) "Performance Evaluation of Fuzzy Logic Controlled Bidirectional DC to DC Converter", International Journal of Computing  Science & Communication Technologies,  Vol.3, No. 2, pp. 598- 603, January 2011.
+Narasimharaju.B.L,   S. P. Dubey, S. P. Singh,  (2010) "Analysis of PI controlled Bidirectional Converter for Discharge and Charge Applications",  International Journal of Recent Trends in Engineering and Technology(IJRTET), Vol. 4, No. 3, pp. 7-11, November 2010.
+
+Papers in Conference Proceedings: Presented / Published/Submitted: 
+
+Vijaya Vardhan Reddy. P, Narasimharaju B. L, "Design of 2-DOF Controlled Boost Converter in CCM using Characteristic Ratio Assignment"  (Submitted)
+G. Sainadh, Narasimharaju B. L, Sliding Mode Control of Synchronous Buck Converter Based LED Driver”, submitted to IEEE Conf. (Submitted)
+Isac Daimary, R. Jana and B. L Narasimharaju, "A Coupled Inductor Dual-Input Bipolar Triple-Output Buck Converter with Sliding Mode Controller," 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Hyderabad, India, 2024, pp. 01-06. doi: 10.1109/SEFET61574.2024.10718235  
+M. Vijayan, U. Ramanjaneya Reddy, T. Mahto, B. L. Narasimharaju and R. Dogga, "Independently Controllable Single-Input Dual-Output DC-DC Converter for DC Microgrid Based PV Fed EV Charging Stations," 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Hyderabad, India, 2024, pp. 1-6, doi: 10.1109/SEFET61574.2024.10718259.
+S. Rao, A. Kumari, D. Raveendhra, B. L. Narasimharaju, G. Nagesh and A. Panda, "Efficient Tracking Control Startegy for High Voltage Gain Transformerless DC-DC Converter in DC Drive Applications," 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Hyderabad, India, 2024, pp. 1-7, doi: 10.1109/SEFET61574.2024.10718092.
+A. Keshari, D. Raveendhra, B. L. Narasimharaju, P. Chaturvedi, U. R. Reddy and P. B. Bobba, "Switched Reluctance Motor-based EV Drive with Bidirectional Grid Interaction," 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Hyderabad, India, 2024, pp. 1-8, doi: 10.1109/SEFET61574.2024.10717965.
+G. Vaishya, D. Saini, Y. Patidar, D. Raveendhra, B. L. Narasimharaju and P. J, "Development of Characterization Circuit for Power Semiconductor Devices," 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Hyderabad, India, 2024, pp. 1-6, doi: 10.1109/SEFET61574.2024.10718052.
+M. A. Ali, N. P. Singh, D. Raveendhra, S. R. Pendem, B. L. Narasimharaju and P. B. Bobba, "Single Stage Isolated Power Conditioning Unit for Plugin Electric Vehicles on-Board Charger," 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Hyderabad, India, 2024, pp. 1-7, doi: 10.1109/SEFET61574.2024.10718263.
+P. Raviteja, K. A. Kumar, M. F. Baba, B. L. Narasimharaju and A. V. Giridhar, "A Modified Quadratic Boost Based P-Type Structure with Inverting Output," 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Hyderabad, India, 2024, pp. 1-5, doi: 10.1109/SEFET61574.2024.10718216. 
+M. Vijayan, U. Ramanjaneya Reddy, T. Mahto, B. L. Narasimharaju and R. Dogga, "Independently Controllable Single-Input Dual-Output DC-DC Converter for DC Microgrid Based PV Fed EV Charging Stations," 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Hyderabad, India, 2024, pp. 1-6, doi: 10.1109/SEFET61574.2024.10718259.
+M. F. Baba, J. Boda, K. A. Kumar, P. R. Teja, A. V. Giridhar and B. L. Narasimharaju, "Analysis and Design of Switched Inductor-Capacitor Based Quasi Z Source Analogous Boost Converter," 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Hyderabad, India, 2024, pp. 1-6, doi: 10.1109/SEFET61574.2024.10718116. 
+K. A. Kumar, N. S. Sreeja and B. L. Narasimharaju., "A Fuzzy Logic Approach for Ripple Minimization and Power Factor Correction in LED Lighting Systems," 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Hyderabad, India, 2024, pp. 1-6, doi: 10.1109/SEFET61574.2024.10718106.
+K. R. Lokhande, P. Raviteja and B. L. Narasimharaju, "Solar PV Integrated MPPT Controlled High Gain DC-DC Converter," 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET), Hyderabad, India, 2024, pp. 1-7, doi: 10.1109/SEFET61574.2024.10718155.
+Lagudu Sri Hari, K Ashok Kumar, B L Narasimharaju, S AMdhu Babu, A Novel Current Fed Multi-Output DC-DC Converter for High Gain Applications" IEEE conference SEFET-2023, 9th -12th August 2023, ITER, Siksha 'O' Anusandhan (Deemed to be University), Bhubaneswar, Odisha, India, pp.1-5.
+Shradhanand Dahiya, Man Mohan Garg, Kumar Sourabh Mani, Narasimharaju B.L, Akshay Kumar Rathore, (August 2023), "Performance Evaluation of Bridgeless Buck-boost LED Driver Circuit with Linear Active Disturbance Rejection Control" IEEE conference SEFET-2023, 9th -12th August 2023, ITER, Siksha 'O' Anusandhan (Deemed to be University), Bhubaneswar, Odisha, India, pp.1-6
+Akash Misra, K.Srikanth, B L Narasimharaju, (Aug 2023) Performance Comparison of Multilevel and 2-level Inverters for High Voltage E-drive Application,  2023 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS-23), 18th – 19th February 2023, MANIT Bhopal, India, pp.01-06. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10063049
+Kartik Tank, Man Mohan Garg, B L Narasimharaju, (August 2022) MATLAB-based Simplified Mathematical Modelling of Non-ideal Differential Mode Inverters, 2022 IEEE 19th India Council International Conference (INDICON), Nov. 24 - 26, 2022, Cochin University of Science and Technology, Kochi·India. pp.1-6. 
+K Sudha, D Raveendhra, B. L Narasimharaju, ( August 2022 ) Single-Phase H6 Inverter with Hybrid Modulation Scheme for Solar PV application, 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation “(2nd IEEE SeFeT 2022), IEEE IAS Society & GRIET Hyderabad, pp.1-6.
+K Sudha, D Raveendhra, B. L Narasimharaju, (August 2022) Efficient Single-Phase Grid Connected Transformerless Inverter with Active and Reactive Power Control, 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation (2nd IEEE SeFeT 2022), IEEE IAS Society & GRIET Hyderabad, pp.1-6. 
+Amulya, D Raveendhra, B. L Narasimharaju, (August 2022), SPV Power Conversion using Bidirectional H6 Inverter with reduced Common Mode Voltages, 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation “(2nd IEEE SeFeT 2022), IEEE IAS Society & GRIET Hyderabad, pp.1-6 
+Amulya, D Raveendhra, B. L Narasimharaju, (August 2022) Performance of Dual Differential Parallel Buck Grid Connected inverter for Solar Power Conversion, 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation “(2nd IEEE SeFeT 2022), IEEE IAS Society & GRIET Hyderabad, pp.1-6.
+Raveendra Dogga, Phaneendhra Babu Bobba, B L Narasimharaju, M. K Pathak, (August 2022) Synergetic Control Approach for Speed Control of Permanent Magnet Synchronous Motor, 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation “(2nd IEEE SeFeT 2022), IEEE IAS Society & GRIET Hyderabad, pp.1-6.
+Prashanth M, Raveendhra Dogga, A V Giridhar, B L Narasimharaju, (August 2022), Switched Reluctance Machine Drive Analysis with Fault-Tolerant Power Converter, 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation “(2nd IEEE SeFeT 2022), IEEE IAS Society & GRIET Hyderabad, pp.1-6.
+Prashanth M, Raveendra Dogga, A V Giridhar, B L Narasimharaju, (August 2022) DC-Link Current Ripple Reduction in Switched Reluctance Machine Drives, 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation “(2nd IEEE SeFeT 2022), IEEE IAS Society & GRIET Hyderabad, pp.1-6. 
+Shashank Varshney, B. L Narasimharaju, K Ashok Kumar & Madhu Babu S, (August 2022) AC-DC PFC-Boost Converter With Ripple Reduction Technique For E-Bike Battery Charging System, 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation “(2nd IEEE SeFeT 2022), IEEE IAS Society & GRIET Hyderabad, pp.1-6.
+Kartik Tank, Man Mohan Garg, Nitin Gupta and B L Narasimharaju, (August 2022) Performance Evaluation of Differential Mode Zeta Inverter using Various Modulation Schemes, 2022 IEEE 2nd International Conference on Sustainable Energy and Future Electric Transportation “(2nd IEEE SeFeT 2022), IEEE IAS Society & GRIET Hyderabad, pp.1-6.
+Rohith C, Madhu Babu S, & K Ashok Kumar,  B. L  Narasimharaju, (March 2022),High Power Factor and Reduced Ripple Flyback Converter for Universal AC Voltage Fed LED Driver, IEEE Second International Conference on Power, Control and Computing Technologies ICPC²T 2022, NIT Raipur,  March 1-3, pp.1-6.  
+M.F. Baba, A V Giridhar, B L Narasimharaju, & Harish Sarma Krishnamoorthy, (Dec2021), "Non-isolated Switched Inductor – Capacitor based High Gain DC-DC Converter", NATIONAL POWER ELECTRONIC CONFERENCE-2021, NPEC-2021, IIT Bhubaneswar, 15-17 Dec 2021, pp.1-5. 
+Gantasala Bhavana, Narasimharaju B L, Vijaya Vardhan Reddy P, & Vijay Babu K, (Dec2021), "Model Predictive Torque Control of Switched Reluctance Motor Drive", 2nd IEEE INTERNATIONAL CONFERENCE ON ELECTRICAL POWER AND ENERGY SYSTEMS (ICEPES-2021), MNIT Bhopal, INDIA, 10th to 11th December 2021, pp.1-5.   
+Shashank Varshney, B. L  Narasimharaju, Madhu Babu Sambhani, & K Ashok Kumar,  (Dec2021), "AC-DC PFC-CUK Fed One-Switch Resonant Converter With Bms For E-Bike Battery Charging System", SAEINDIA & IEEE IAS, 4th Edition of Int. Transportation Electrification Conference (iTEC) India 2021, ( Hybrid), ICAT Convention Centre, Gurugram, Haryana, INDIA, 16th - 18th Dec 2021, pp.1-5. 
+Kanaka Mahalakshmi Lalam, B. L Narasimharaju, Madhu Babu Sambhani & Ratna Rahul Tupakula, Generalized Model Predictive Algorithm For Single-Phase Grid Connected Multilevel Inverters, IEEE International Conference on Communication, Control and Information Sciences (ICCISc-2021), Government Engineering College Idukki, Kerala, 16th - 18th June, 2021, pp.1-5. 
+Uday Karthikeyan Reddy B, B. L Narasimharaju and Madhu Babu Sambhani, "Model Predictive Algorithm for A New High Gain Transformer-Less Inverters with Leakage Current Elimination, 2021 IEEE International Conference on Communication, Control and Information Sciences (ICCISc), Government Engineering College Idukki, Kerala, 16th to 18th June, 2021, pp.1-5.  
+V VK. Satyakar, Porpandiselvi S, K Ashok Kumar, Narasimharaju B.L, A Wide Range Soft Switched Interleaved Boost Integrated L-L Type Full-Bridge DC-DC Converter", 9th IEEE Power Electronics, Drives and Energy Systems (PEDES-2020) Biennial Conference, 16th -19th December, 2020, MNIT Jaipur, pp.1-5.
+ S. Madhu Babu, Narasimharaju B. L, Akshay K. Rathore, A New Pulsating DC-link Three Phase Transformer-less Inverter for Renewable Applications, 9th IEEE Power Electronics, Drives and Energy Systems (PEDES-2020) Biennial Conference, 16th -19th December, 2020, MNIT Jaipur, pp.1-5.  
+Swati Tandon, Narasimharaju B. L, Akshay K. Rathore A ZVS Series Resonant Current-Fed PWM controlled DC-DC Converter, 2020 IEEE Transportation Electrification Conference & Expo, ITEC2020 (Virtual Mode), 22nd - 26th June, 2020, Navy Pier, in Chicago, Illinois, USA, pp.1-6.
+S. Madhu Babu, VVK Sathyakar, Narasimharaju B. L, Akshay K. Rathore, Harish S Krishnamoorty, New Differential Buck-Boost Inverter with Reduced Voltage Stress”, IEEE Int conf. on “Power Electronics, Smart Grid and Renewable Energy (PESGRE 2020)”, Kochi, Kerala, India 02 – 04 January 2020, pp.1-5.
+S. Madhu Babu, VVK Sathyakar, Narasimharaju B. L, Akshay K. Rathore, Harish S Krishnamoorty, “Novel Single-Stage Transformer-less Cascaded Differential Boost Single-Phase PV Inverter for Grid-Tied Applications, IEEE Int conf. on “Power Electronics, Smart Grid and Renewable Energy (PESGRE 2020)”, Kochi, Kerala, India, 02 – 04 January 2020, pp.1-5.
+S. Madhu Babu, Narasimharaju B. L, Akshay K. Rathore, New Single-Stage Boost Multilevel Inverter, IEEE (ITEC-INDIA-2019), Bengaluru, INDIA, 17 – 19 Dec 2019, pp1-5.
+Siddarth B G, Narasimharaju B. L, S. Madhu Babu, Shwetab, Uday Shankar, Comparative Study of Sine PWM Techniques on Switched Capacitor Multilevel Inverter (SCMLI)", IEEE 1st Int. Conference on Energy, Systems and Information Processing, July 04 - 06, 2019, pp.1-4,  IIITD&M, Kancheepuram, India.
+Narasimharaju B. L, G. Sainadh, Uday Shankar" PV Fed LLC - LC Multi Resonant Converter Based Led Driver", 2019 IEEE 1st Int. Conference on Energy, Systems and Information Processing, July 04 - 06, 2019, pp.1-5, IIITD&M, Kancheepuram, India. 
+Satyakar Veeramallu, Porpandiselvi S, Narasimharaju B L & K Ramakrishna Reddy “High Efficiency Reduced Ripple Three Phase Series Resonant Converter for LED Lighting Applications” 3rd Int. Conf. ICEECCOT-2018 14-15, December 2018, GSSSIETW, Mysuru, pp. 78-83.
+Satyakar Veeramallu, Porpandiselvi S, Narasimharaju B L & Mounika D, Reduced Ripple Current Three-Phase Parallel Loaded Resonant Converter for LED Lighting, Int. Conference on Inventive Computing and Informatics (ICICI 2017), Pp.1-5.
+V K Satyakar Veeramallu , S Porpandiselvi, B. L Narasimharaju, Reduced Ripple Current LED Lighting System with Two Series Resonant Converters, IEEE International Conference on Communication and Electronics Systems (ICCES-2017), 19-20 October 2017 by Confyy  Coimbatore, India, pp.1-6.
+Vijay Babu K, Narasimharaju B L & D M Vinod kumar, "Essence of Variable DC PWM Control for Switched Reluctance Motor in Direct PV-fed Water Pump", IEEE India Int. Conf. on Power Electronics - IICPE 2016, Thapar University, Patiala, pp.1-5, 17-19 Nov 2016, pp.1-6.http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8079538 
+Ramanjaneya Reddy U & Narasimharaju B. L, "Unity power factor buck-boost LED driver for wide range of input voltage application," 2015 Annual IEEE India Conference (INDICON), New Delhi, 2015, pp. 1-6. URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7443347&isnumber=7443105 
+Narasimharaju B. L, G. Bharma, V. B. Koreboina & Ramanjaneya Reddy U, "Modeling and analysis of voltage controlled positive output synchronous buck-boost converter," 2015 Annual IEEE India Conference (INDICON), New Delhi, 2015, pp. 1-5. URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7443348&isnumber=7443105
+Karthik K, Narsimharaju B. L and Srinivasa Rao S, "Five-level inverter using POD PWM technique," 2015 International Conference on Electrical, Electronics, Signals, Communication and Optimization (EESCO), Visakhapatnam, 2015, pp. 1-6.  URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7254048&isnumber=7253613
+Ramanjaneya Reddy U and Narasimharaju B. L, "Enhanced closed loop voltage control of buck converter for improved performance," 2014 IEEE India Conference (INDICON), Pune, 2014, pp.1-5.
+   URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7030630&isnumber=7030354
+B. L. Narasimharaju, et. al., "Optimized dual active bridge Bi-directional DC-DC converter for UPS application," 2014 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), IITB Mumbai, 2014, pp. 1-6. URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7042117&isnumber=7041944  
+B. L. Narasimharaju et. al., "Two-quadrant clamping inverter scheme for three-level open-end winding induction motor drive," 2014 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES), Mumbai, 2014, pp.1-4.  URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7041988&isnumber=7041944
+D. Raveendhra, P. Thakur & B. L. Narasimha Raju, "Design and small signal analysis of solar PV fed FPGA based Closed Loop control Bi-Directional DC-DC converter," 2013 International Conference on Circuits, Power and Computing Technologies (ICCPCT), Nagercoil, 2013, pp. 283-288.
+ URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6529011&isnumber=6528821
+S. P. Singh, Narasimharaju B. L, and N. Rajesh Kumar, "Performance analysis of AC-DC power converter using PWM techniques" Energy Procedia, ELSEVIER, Vol. 14, 2012, pp. 880 -886.
+   http://www.sciencedirect.com/science/article/pii/S187661021104447X
+B. L. Narasimharaju, S. P. Dubey and S. P. Singh, "Voltage mode control of coupled inductor bidirectional DC to DC converter," IEEE International Conference of Electron Devices and Solid-State Circuits (EDSSC), Hong Kong, 2010, pp. 1-6.  URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5713792&isnumber=5713670
+B. L. Narasimharaju, S. P. Dubey & S. P. Singh, "Modelling and stability analysis of coupled inductor bidirectional DC-DC converter" IEEE International Conference of Electron Devices and Solid-State Circuits (EDSSC), Hong Kong, 2010, pp. 1-5. URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5713707&isnumber=5713670
+B. L. Narasimharaju, S. P. Dubey and S. P. Singh, "Parasitic effect considerations in modeling of CI-BDC converter and its voltage controller," 2010 Joint International Conference on Power Electronics, Drives and Energy Systems & 2010 Power India, New Delhi, 2010, pp. 1-6.
+  URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5712381&isnumber=5712370
+B. L. Narasimharaju, S. P. Dubey and S. P. Singh, "A novel voltage clamped CI-BDC converter and its control for battery storage applications," 2010 Joint International Conference on Power Electronics, Drives and Energy Systems & 2010 Power India, New Delhi, 2010, pp. 1-7. 
+   URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5712383&isnumber=5712370
+B. L. Narasimharaju, S. P. Dubey & S. P. Singh, "Intelligent technique for improved transient and dynamic response of bidirectional DC-DC converter," IEEE International Conference on Power, Control and Embedded Systems, Allahabad, 2010, pp. 1-6.  
+B. L. Narasimharaju, S. P. Dubey and S. P. Singh, "Coupled inductor bidirectional DC-DC converter for improved performance," 2010 International Conference on Industrial Electronics, Control and Robotics (IECR),, Orissa, 2010, pp. 28-33. 
+Papers in Conference Proceedings: Presented but not Published online
+
+Avinash S, Narasimharaju B. L, Ramanjaneya Reddy U, Vijay Babu K, Purna Chandra Rao, " Electrolytic capacitor less PFC based LED driver" National Systems Conference (NSC-2016), NIT Warangal,  4 - 6 Nov 2016, pp. 1-6.
+Tejaswi R, Narasimharaju B. L, Janaki M, "An Integrated PFC AC-DC Converter", National Systems Conference (NSC-2016), NIT Warangal,  4 - 6 Nov 2016, pp. 1-6.
+Narasimharaju B. L, Shaik Rafi,Vijay Babu K, Ramanjaneya Reddy U, “Modulation Index based Application Selectivity of Dual Source-Fed Open-end Winding Induction Motor Drive” Proc. National Conf. AECT-2016, MIT Manipal, India, pp. -, 28th - 30th January 2016.
+Vijay Babu K, Narasimharaju B. L and Vinod Kumar D M, “ANN Assisted Angle Control for SRM Based PV Water Pumping System”, Proc. National Conference AECT-2016, MIT Manipal, India, pp. -, 28th  - 30th  January 2016
+Karthik .K, Ramanjaneya Reddy U, Narsimharaju B. L, Srinivasa Rao S, "Performance Analysis of Single H-Bridge Multi-Level Inverter", Proc. National Conference AECT-2015, MIT Manipal, India, pp. -, 23rd - 24th January 2015.
+Ramanjaneya Reddy U, Narsimharaju B. L, Vijay Babu K, "Hysteresis controlled power factor correction boost converter for LED lamp Load", Proc. National Conference AECT-2015, MIT Manipal, India, pp. -, 23rd - 24th January 2015.
+Narasimharaju B. L, Divya. P, Ramanjaneya Reddy U, Vijay Babu K, S. P Dubey, "Bidirectional AC-DC Converter and DC-DC Converter for Charge/Discharge Applications", Intl. Conf. Advanced Research Applications in Engineering , Technology , Science & Management, Shaastrarth 2015, 29th -30th June 2015, pp.1-5.
+Narasimharaju B. L, "Nonlinear Loads and Harmonics Role in Power Quality Issues", Proc. National Conference AECT-2013, MIT Manipal, India, pp. 1-6, 7th - 9th February 2013.
+Narasimharaju B. L, S. P. Dubey, and S. P. Singh, "A Review on Bi-directional DC-DC Converters", Proc. International Conference IC-AECT2010, MIT Manipal, India, pp. 471-480, January 7 - 10, 2010.
+Narasimharaju B. L, S. P. Dubey and S. P. Singh, "Performance Analysis of a Coupled Inductor Bidirectional DC to DC Converter", Proc. 4Th International Conference CERA2009, IIT Roorkee, India, pp. 1 (26) - 5(26), February 19 - 21, 2010.
+Narasimharaju B. L, S. P. Dubey and S. P. Singh, "Mathematical Modelling and Analysis of Bidirectional DC to DC converter" Proc. Int. Conf. ICSDC-2010, MIT Manipal, India, pp .485-490, August 19 - 22, 2010.
+Narasimharaju B. L, S. P. Dubey, and S. P. Singh, "Performance Evaluation of Fuzzy Logic Controlled Bidirectional DC to DC Converter" Proc. 4Th IEEE Conference ICACCT2010, APIIT, Haryana, India, pp. 486-491October 30, 2010.
+Narasimharaju B.L & Rajalakshmi Samaga B.L, "PLC Based Star-Delta Starter with Over-Current Safety Feature for an Induction Motor", Proc. National System Conference NSC-2007, MIT, Manipal, India, pp.1-4, Dec 14-15 2007.
+Narasimharaju B.L and G.S.N. Raju, "Optimization of Induction Heating System Topology Review", National Conference record AECT-2007, MIT Manipal, India, pp. 44-50, March 2007.
+Narasimharaju B. L and G.S.N. Raju, et al., "High Frequency Current Controlled Power Supply Using Fly-Back Converter", National conf. record PCID-2006, BIT Sathyamangalam, India, pp. 54-57, March 24 - 25, 2006.                                             
+Short-Term Courses/Workshops/Conferences Attended
+AICTE course on Digital Signal Processing and Applications, UVCE Bangalore 29/70/2002 – 14/08/2002. (3 weeks)
+AICTE STTP on Recent Trends in High Voltage Testing Techniques IIT Madras, Nov 2004. (1week)
+QIP-AICTE short-term course on Control of Converters and Drives, IISc Bangalore, Dec 2004. (1 week)
+National level workshop (under DST, Govt. Of India) on Recent Trends in Power Systems, SRKRCE Bhimavaram (AP), June 2005. (2 days)
+National workshop on “Microsystems (MEMS) Technology” IISc Bangalore, November 16 –19, 2005. (1 week )
+National conf. on Power Conversion and Industrial Drives (PCID-2006), BIT Sathyamangalam, 24-25 March, 2006. 
+QIP-AICTE short-term course on “Electromagnetics” IISc Bangalore, Nov/Dec 2006. (1 week)
+National Conf. on Advanced Energy Conversion and Technology (AECT–2007), MIT Manipal, March 2007. (3 days)
+Staff Development Program on “Digital System Design Using FPGA”, MIT, Manipal, June 2007 (2 weeks)
+National Workshop on “Innovative Trends in Energy Efficient Building Lighting”, 11th August 2007 MIT Manipal.
+Workshop on “Principle of Solar Photovoltaic and Thermal Energy Utilization”, MIT, Manipal, 21/08/2007. (1 day)
+Workshop on “Virtual Instrumentation and Data Acquisition”, NITK, Surathkal, September 6th-7th 2007. (2 days)   
+National System Conference (NSC-2007), MIT, Manipal, Dec 14-15 2007.
+National Seminar on “Excellence in Technical Education through Innovation”, MIT, Manipal, 17-19, Dec 2007.
+Staff Development Program on “Modern controllers Design  Techniques”, MIT, Manipal, June 9–13  2008 (1 week)
+MHRD Summer School on  “Digital  Signal Processor Applications to Modern Industrial Drives”, NIT Warangal, June 16 – 28 2008 (2 weeks) 
+TEQIP workshop on “Emerging Trends in Distribution System” NITK, Surathkal, 24th to 26th October 2008. (3 days)
+IEEE workshop on “Recent Advances in Sustainable Energy”, IIT Delhi on 15Th to 16Th December 2009.
+International Conf. IC-AECT 2010, MIT Manipal, India, 07 – 10 , January 2010.
+4Th International Conf. CERA-2009, IIT Roorkee, 19 -21, February 2010
+International Conf. ICSDC-2010, MIT Manipal, India, 19 -22, August 2010
+4Th IEEE International conference IC-ACCT2010, APIIT, Haryana, India, 30th October 2010
+IEEE Conf. on Control and Embedded Systems (ICPCES2010), 29th Nov - 1st Dec. 2010, MNIT Allahabad, India. 
+IEEE Conf. on Electron Devices and Solid-State Circuits (EDSSC2010), 15-17 Dec. 2010, University of Hong Kong.
+IEEE Conf. on Power Electronics, Drives and Energy Systems (PEDES), 20-23 Dec. 2010, IIT Delhi, India.
+QIP course on Digital Design Techniques: Applications to Control Systems, 30Th May to 3rd June 2011, IIT Roorkee. (1 week)
+MHRD ISTE Workshop on “Introduction to Research Methodologies”, 25th June to 4th July 2012, IIT Bombay and NIT Warangal (RC), India. (2 Weeks)
+Workshop on “Teaching and Learning for Excellence” 17th - 19th July 2012, NIT Warangal. (3 days)
+Workshop on “Modelling, Analysis and Control of Mechatronic Systems”, 27Th - 29Th July 2012, NIT Warangal.
+National Conference AECT2013, MIT Manipal, India, 7Th to 9Th February 2013.
+Workshop on “Teaching and Learning for Excellence” 15th - 17th July 2013, NIT Warangal. (3 days)
+Workshop on “Good Laboratory Practices”, 13th September 2013, NIT Warangal.
+Workshop on Open Source Softwares, 14-15, March 2014, NIT Warangal
+Workshop on “NI Training on LAB-VIEW Software”, 26th September 2014, NI Team, Taj Hotel, Hyderabad. 
+Workshop on “Rapid Prototyping Systems” 27th September 2014, NIT Warangal.
+National Conference AECT-2015, MIT Manipal, India, 23rd - 24th January 2015.
+NaMPET @ NITW Short term course on “Digital Signal Processor Controlled Power Electronic Converters & Drives (DSPEC-2015), 28-30th, September 2015, NITW.
+7th IEEE conf. on Technology for Education (T4E-2015), 10-12 Dec, 2015, NIT Warangal.
+Three Day TEQIP-II National Conference on “ Sharing of achievements and Innovative ideas of CoEs” 21st to 23rd April 2016, Siddaganga Institute of Technology Tumkur & SPFU Bangalore, Karnataka.
+National Systems Conference (NSC-2016), 4 - 6 Nov 2016, NIT Warangal.
+Two-day National Workshop on "Developing OER-enabled e-Learning Courses Using Moodle" during 18th -19th March 2017, NIT Warangal.
+One Week GIAN Course High Voltage Gain Soft-Switching Advanced Current-Fed Technologies For Microgrid & Electric Transportation, Department of EEE, UCE, Osmania University, Hyderabad, from 18th DEC to 23rd  DEC, 2017).
+One Week FDP on “Machine Learning with Business Applications, IIM Bengaluru, May 20 – May 25, 2019.
+One Week FDP on “Learning Management System”, NIT Warangal, July 14 – July 18, 2020.
+One Week FDP on “Universal Human Values (UHV)”, NIT Warangal, August 17 – August 21, 2020.
+One Day "Pre-Event on Types of Patents in India conducted by Turnip Innovations" BITS Vadodra, 16th January 2021.
+Two Day " Turnip Innovation Festival 2021 conducted by Turnip Innovations", Turnip Innovations Pvt. Ltd., Mumbai 22nd - 23rdJanuary 2021.
+One Week FDP on Universal Human Values (UHV), NIT Warangal, July 12th – July 20th, 2021.
+
+
+
+Research Guidance: 
+  I. Ph.D / Master’s Thesis Supervision: Doctorate-10; SRF-1, PG-35; Internship Projects-06
+S.No.
+Name of the Student / scholar
+Title of thesis
+Doctorate or Master’s
+Awarded date/Ongoing
+ Other Supervisor (s)
+
+Ph.D Research Guidance
+
+E M Chakravarthy
+Energy Demand Forecasting using AI Techniques
+Doctorate
+In Progress
+Dr.B Phaneedmdhra
+
+Varipalli Krupakar
+Power converters- modelling and control.
+
+
+Prof. Bidyadhar Subudhi 
+
+K. Sudha
+Power Converters
+Doctorate
+In progress
+----
+
+Mr. P Raviteja
+SRM Drive and control. 
+Doctorate
+In progress
+----
+
+Mr.K. Ashok Kumar
+(719040)
+LED Drivers for Lighting Systems
+JRF/PhD
+Submitted Thesis
+----
+
+Mr. S Madhu Babu
+(717013)
+Investigations on Transformer-Less Inverter Topologies for Standalone PV/UPS Applications 
+Doctorate
+04 July 2022.
+----
+
+Mr. V K Satyakar V
+(716119)
+Development of Soft-switched LED Drivers for Off-Grid Lighting Applications
+Doctorate
+09th April 2021
+ Dr. S. P Selvi
+(Co-Guide)
+
+Dr. Ramanjeneya Reddy U (701409)
+ Improved Driver Circuits For LED Lighting Applications 
+Doctorate
+25th Oct 2017
+   ----
+
+Dr. Vijay Babu K
+(701341)
+Performance Investigation on Switched Reluctance Machine Control in Off-grid Applications
+Doctorate
+31st Oct 2017.
+Prof. D. M. Vinod Kumar
+(Co-Supervisor)
+
+Dr. P Srinivasan
+(701411)
+Investigation on PWM Techniques For An Open-End Winding Induction Motor Drive
+Doctorate
+17th Oct 2016
+Dr. N.V Srikanth
+(Co-Supervisor)
+
+Research Mentor/ Post-Doctoral Fellows:
+
+Dr. P. Vijaya Vardhan Reddy
+Solar PV Fed SRM Based Water Pumping System
+SRF
+14-02-2022
+ February 2023
+
+
+PG (PED& SEG) Dissertation / Project Works Guidance: 39+06 (Internship Projects), Since 2012
+
+Abhishek Kulkarni
+
+
+April 2027
+
+
+Nashetty Satwik
+
+
+April 2027
+
+
+Priyam 
+
+
+April 2027
+
+
+Mahima Yadav
+
+
+April 2026
+
+
+Damodharam Sreenivasa Reddy
+Grid Connected inverter
+Masters 
+April 2026
+
+
+Tanguturi V V N Pavan Sai Harshath
+Control of BLDC Drive for EV propulsion system 
+Masters 
+April 2026
+
+
+Suenekala Raghavendra
+A Single-Phase Bridge-less Fly-back-derived Isolated Rectifier with PFC for EV Charging
+Masters 
+June 2025
+
+
+G. Bharathkumar
+Design and Analysis of High Gain Step-up DC-DC Converter for Photovoltaic Application
+Masters 
+June 2025
+
+
+Namoallv Sai Sreeja (22EEM1 R18)
+A Fuzzy Logic Approach For Ripple Minimization And Power Factor Correction In Led Lighting
+Masters 
+May 2024
+
+
+Kalvani Randhir Lokhande (22EEM1R11)
+Solar Based Charging For Electric Vehicle
+Master’s level
+May 2024
+
+
+Akash Mishra
+(21EEM1R01)
+Performance Comparison of Multilevel and 2-level Inverters for High Voltage E-drive Applications using Si and SiC Power Switches
+Master’s level
+June 2023
+ ZF India, Hyderabad
+
+SHASHANK VARSHNEY (EE20102)
+BMS system for EV Battery Charging System
+Master’s level
+June 2022
+Nil
+
+LAGUDU SRI HARI KUMAR 202514 (EE20119)
+Design & develop Power Converter for EV charging applications
+Master’s level
+June 2022
+Nil
+
+ROHIT CHAVAN 202526 (EE20133)
+Design & develop LED Driver circuits 
+Master’s level
+June 2022
+Nil
+
+Gantasala Bhavana 
+192506
+Model Predictive Torque Control of Switched Reluctance Motor
+Master’s level
+June 2021
+Nil
+
+Lalam Kanaka Mahalakshmi
+192518
+Model Predictive Control of Multilevel Inverter with Current Reference Scheme
+Master’s level
+June 2021
+Nil
+
+Shubham Mittal
+192538
+Design of Low Cost Digital Voltage Regulator for Synchronous Machines Based on Atmega32 Microcontroller
+Master’s level
+June 2021
+Nil
+
+Uday Karthikeyan Reddy B 
+192545
+Model Predictive Algorithm For A New High Gain Transformer-less Inverter With Leakage Current Elimination
+Master’s level
+June 2021
+Nil
+
+Mr. Shwetabh
+(182531)
+Investigations on Single-Phase Solar-PV Fed Transformer-Less Inverter Topology
+Master’s level
+July 2020 
+Nil
+
+Mr. Uday Shankar
+(182533)
+Solar PV Fed ZVS Bidirectional DC-DC Converter For Standalone LED Street Lighting System
+Master’s level
+July 2020 
+Nil
+
+Mr. Siddharth Balaji G
+Performance Analysis of Switched Capacitor Multi level Inverter
+Master’s level
+June 2019
+Nil
+
+
+Mr. Sainadh Gubbala
+An Improved Sliding Mode Controlled LED Driver
+Master’s level
+June 2019
+Nil
+
+R Vinod Kumar
+ SVPWM Control Strategy for Three-Level Cascaded H-Bridge Inverter
+Master’s level
+June 2018
+Nil
+
+Mr. Mantana Harish
+ Highly Reliable and High Efficient Quasi Single Stage Buck-Boost Inverter
+Master’s level
+June 2018
+Nil
+
+ Mr. R. Prasanth Kumar
+ Multi Level  Inversion (Tentative)
+Master’s level
+in progress (PT)
+Nil
+
+Mr. M Poorna Chandra Rao
+ Non Inverting Buck Boost converter for PV powered street lighting
+Master’s level
+June 2019 (PT)
+Co-Guide, Power Grid Corp. Of India
+
+ Ms. Datla Sravani
+  PV Fed LLC-LC Multi-Resonant Converter Based LED Driver
+Master’s level
+May/June 2017
+Nil
+
+ Mr.Y  Sai Baba
+  Performance Study Of PV Fed Synchronous Boost Converter For Linear And Quadratic Load
+Master’s level
+May/June 2017
+Nil
+
+ Mr. Surasani Avinash
+   Capacitance Reduction With An Optimized Cascaded Converter Based LED Driver
+Master’s level
+May/June 2016
+Nil
+
+ Mr. Vadapally Harish 
+Switched Reluctance Motor Control Strategies For Quadratic Load Application - A Comparative Study
+Master’s level
+May/June 2016
+Nil
+
+ Mr. Golla Manikiran Kumar 
+  A Flicker-Free Electrolytic Capacitor Less AC-DC LED Driver 
+Master’s level
+May/June 2015
+Nil
+
+ Mr.Harish S
+ Design  And Analysis Of Isolated AC-DC Converter
+Master’s level
+May/June 2015
+Nil
+
+ Ms. Deepa Das
+  Bilevel Current Control LED Driver
+Master’s level
+May/June 2015
+Nil
+
+
+ Mr. Goutam Baram
+  Design Of Synchronous Non-Inverting Buck-Boost Dc-Dc Converter
+Master’s level
+May/June 2014
+Nil
+
+ Mr. Shaik Rafi
+  Modified Decoupled SVPWM Based Four-Level Inverter Fed Open-End Winding Induction Motor Drive       
+Master’s level
+May/June 2014
+Nil
+
+ Ms. Divya P
+  Bidirectional AC- DC PFC Converter And DC-DC Converter For Charge/Discharge Application
+Master’s level
+May/June 2014
+Nil
+
+ Mr. V. Venkata  Prahlad
+ Optimized Dual Active Bridge Bi-Directional DC-DC Converter For UPS Application
+Master’s level
+May/June 2013
+Nil
+
+ Mr. B. Chiranjeevi
+ Simulation And Analysis Of Soft Switching DC-DC Converters
+Master’s level
+May/June 2013
+Nil
+
+Ms. Divya Shetty 
+  Design Of Power Supply For RGB Led Based Lamp Source
+Master’s level
+May 2012
+Sri. Harish Padiyar U
+Project Assistants / Internship Projects Guided: 06
+
+Mr. Arun Kumar, 
+NIT Mizoram
+Modeling and Simulation Analysis of Soft switching DC-DC converters for PV integration
+Internship Project under MHRD at NITW
+AY:2017-18,
+Nil
+
+Joseph V, 
+NIT Mizoram
+Modeling and Simulation Analysis of Non-inverting Buck-Boost Converter
+Internship Project under MHRD at NITW
+AY:2017-18,
+Nil
+
+Ms. R. Tejaswi,
+Design and Analysis of Three-level Integrated AC-DC converter
+Project Assistant under TEQIP-II
+AY:2016-17 
+Nil
+
+Ms. K Janaki
+Design and Analysis of DC-DC converter
+Project Assistant under TEQIP
+AY:2016-17 
+Nil
+
+Mr. Karthik .K
+Performance Analysis of Single H-Bridge Multi-Level Inverter
+Project Assistant under TEQIP
+AY:2015-16
+Nil
+
+Mr. Vijaya Vardhan Reddy. P
+Design of 2-DOF Controlled Boost Converter in CCM using characteristic Ratio Assignment
+Project Assistant under TEQIP
+AY:2015-16
+Nil
+
+UG (EEE) Project Works Guidance : 40, Since 2012. 
+
+Sponsored/Funded projects: 
+S. No.
+Title
+Agency /Scheme/period
+Cost in
+Lakhs
+Role
+Status
+Duration
+
+Vetting of EM design & drawings pertaining to TAMAS MVS, Rewa Madhya Pradesh.
+Consultancy Sponsor by NCC Limited, Warangal
+Rs.1,15,050/-.
+PI
+Ongoing
+Since 2024
+
+Construction of permanent campus for Indian Institute of Petroleum and Energy (IIPE), Visakhapatnam
+Consultancy Sponsor by KPC Projects Ltd, Hyderabad
+Rs.8,26,826/-
+PI
+Ongoing
+Since 2024
+
+Development of low-cost, open-hardware enabled watershed monitoring system for India.
+SPARC/2019/1814, SPARC-MoE
+Rs.91.61,770 Lakhs
+Co-PI
+Ongoing
+
+2 years 
+
+
+Indian PI: Prof. K. Venkata Reddy (CED).
+
+Indian Co-PIs:Dr.S.RAVI CHANDRA (CSE), Prof.B.L Narasimharaju (EEE). 
+
+Foreign Investigators: Prof. John S. Schwartz, UNIVERSITY OF TENNESSEE, USA. Dr. Alfred J. Kalyanapu, Tennessee Tech University, USA. Dr. Tania Datta, Tennessee Tech University, USA
+
+Design and Development of New High Gain Transformer-less Inverter Topology for PV Based Grid Tie Applications
+SPARC-India, MHRD, 
+No.: SPARC/2018-2019/P1392/SL.
+SPARC: 
+Rs.68.99 Lakhs;
+PI
+Completed
+Ongoing
+15-March-2019 to 15-March-2021
+ (2 Years)
+
+
+PI: Dr. B.L Narasimharaju ;  Indian Co-PIs: Dr. A.V. Giridhar, Dr. Ch. Ramulu
+Foreign Investigators: Prof. Subhasish Battacharya (PI), NCS University, USA,  Dr. Akshay Kurmar Rathore (Co-PI), Concordia University, Canada, Dr. Harish Sarma Krinshnamoorty (Co-PI), Univ. Of Houston, USA
+
+Design and Development of High Efficient Switched Reluctance Motor based Solar Photovoltaic (SPV) Water Pumping System (WPS) 
+File No.:IMP/2019/000295, IMPRINT-India, MHRD, 
+Project Cost -Rs.5116949/-  (SERB)+ Rs.2,25,0000/- (Institute/Industry): Rs.73,66,949/-
+PI
+Completed
+Ongoing
+02-Jan-2020 to 02-Jan-2023             (3 Years)
+
+
+PI: Dr. B.L Narasimharaju; Co-PIs: Prof.D. M Vinod Kumar , Dr. S. Srinivasa Rao, Dr. A.V. Giridhar, Dr. V. V Mani
+Research Collaborators: Dr. Akshay Kurmar Rathore, Concordia University, Canada, Dr. K. Vijay Babu, MIT Manipal.
+Industry Collaborators: Dr. D. Raveendhra;  Sri. G. Veeranarayana
+
+Design and Development of High-Efficient PFC based AC-DC LED Driver for AC-Grid Fed LED Lighting System
+EMR/2017/004913/EEC EMR-SERB-DST, 
+2018-20(3Years)
+27.535
+PI
+Completed
+10 July 2018 to 09 October 2021.
+(3 Years, 3Monts)
+
+
+PI: Dr. B.L Narasimharaju; Co-PIs: Dr. N. Vishwanathan & Dr. S.P Selvi
+
+Design and Development of High Efficiency and Low Cost Solar Induction Cooker suitable for Vessels of Different Material. RSOP/2019/GD/12, Dt. 2019, CPRI
+RSOP/2019/GD/12, Dt. 2019, CPRI
+14.280
+Co-PI
+Ongoing
+09-May-2019 to 09-May-2021
+(2 Years)
+
+
+Co-PIs: Dr. B.L Narasimharaju  & Dr. N. Vishwanathan; PI: Dr. S.P Selvi;
+
+Development of High PF Grid connected Induction Cooker with Direct AC-AC Conversion for Vessels of Different Material
+SERB-DST-2019,
+ RG/2018/004568, Dt.09-May2019
+32.350
+Co-PI
+Completed
+May-2019 to May-2022
+(3 Years)
+
+
+Co-PIs: Dr. B.L Narasimharaju  & Dr. N. Vishwanathan; PI: Dr. S.P Selvi;
+
+Investigation on Distributed Generation Resources with Energy Storage System in a Micro grid. Cost: Rs. 1 Lakh. Year: 2013-14.
+NITW-MHRD Research Seed Money (RSM), 
+1.30 
+Sole PI 
+Completed
+
+2013-14 (1 Year)
+
+
+Sole PI: Dr. B.L Narasimharaju
+
+Awards/Recognitions 
+MHRD Fellowship for pursuing Doctoral Study at IIT Roorkee 
+CSIR Young Scientist 2010 Fellowship 
+Best Paper award, IEEE India Conf. INDICON-2015, for paper titled "Modeling and Analysis of Voltage Controlled Positive Output Synchronous buck-boost converter”, JMI, Delhi, India, pp. 1 -5, 17-20 Dec 2015.
+
+Professional memberships/activities
+Senior Member, IEEE (Electronics, Power Electronics Society, Industrial Electronics Society)
+Life Member, Indian Society for Technical Education (ISTE)
+Life Member, System Society of India (SSI)
+Technical Reviewer of IEEE Trans. (Industrial Electronics & Power Electronics), IET Power Electronics,
+Technical Reviewer of Several IEEE international & National conferences
+
+Contributions at Department / Institute level
+Lab / Teaching Developments:
+Electrical Engineering Department, NIT Warangal
+Developed Circuits Laboratory Manual.
+Preparation of Power Electronics Lab Manual 
+Developed Control Systems Laboratory Manual  
+New Experiments Developed & introduced in Control Systems Laboratory (EE355) for 3rd B.Tech(EEE) during AY-2017-18, Semester-II, are given as follows
+Performance analysis of first-order transfer function of DC servo motor (QUBE-Servo) using the bump test method.
+Stability of the DC servo motor (QUBE Servo) for speed and position output functions.
+Performance analysis of Second-order response of the DC Servo (QUBE Servo) Motor to step input.
+Analysis of position control of DC Servo motor (QUBE Servo) using PV controller.
+Above listed new experiments have been designed and developed using DC servo motor (QUBE Servo) module’s purchased under Department plan-grants, EED.
+
+At Electrical & Electronics Engineering Department, MIT Manipal
+Developed Power Electronics Laboratory for PG course
+Digital system design lab Manual developed
+Systems Simulation lab Manual developed
+Power Electronics lab Manual developed
+
+Purchase Initiator of Equipment’s for augmentation of for UG/PG and Research Labs augmentation and strengthen in the Department.
+Equipment’s Purchase for augmentation of UG/PG and Research Labs at NIT Warangal:
+S.No.
+Description of material
+Quantity
+Amount
+
+QUBE-SERVO ((QUBE-SRV) with USB - Rotary Servo Experiment Includes :Inertial disk module, Pendulum module & QUARC real time control software for MATLAB/SIMULINK.
+04
+Rs. 9,52,336 /-
+
+NETWORK ANALYZER
+"N4L" PSM1735 NumetriQ Phase Sensitive Multimeter with IAI Package,10μHz to 35MHz , RS232 standard, Spec: DC-35Mhz, LCRZ, Gain Phase Analysis, 2 isolated channels.
+01
+
+Rs.8,08,500/-
+
+5HP Switched Reluctance Motor  with Control Module
+
+Rs. 8,54,550/-
+
+SEMIKRON Inverter Modules Under TEQIP-II CoE
+Four Leg inverter, Three phase bridge rectifier, i/p AC
+voltage=415V, 45A
+02
+Rs.1,14,500/-
+
+5.4kW, AC/DC Programmable Electronic Load Under TEQIP-II CoE
+1
+Rs.10,89,270/-
+
+10kW Programmable DC Power Supply with array Simulator Under TEQIP-II CoE
+1
+Rs.7,38,525/-
+
+High Voltage High Precision Programmable DC Power Supply: Agilent,  N8761A 300V, 17A, 5100 Watts.
+1
+Rs.4,50,364/-
+
+3kW Stand Alone Solar PV System with ( Under TEQIP-II CoE):
+2KW, 230V, Grid tie Solar Inverter ,
+12V/ 200Ah, Solar Tubular Batteries
+12-48V/20A MPPT Charge Controller
+36 V Battery Management System.
+01 Set
+Rs.3,67,500/-
+
+DC-DC Chopper Module
+IGBT Based Inverter Module
+01+01
+Rs.1,68,800/-
+
+4 Channel isolated DSO, Tektronix, 100MHz, Battery Powered
+01
+Rs.3,20,250/-
+
+Current Probes: 100 kH, 10 mA to 100 A, AC/DC Under TEQIP CoE
+04
+Rs.2,28,780/-
+
+LCR Meter With Transistor Test (LCR55A), Make: Amprobe
+01
+Rs.28350/-
+
+Digital multimeters (17B Model)
+03
+Rs.28350/-
+
+Digital Clamp meters (362 Model)
+03
+Rs.18900/-
+
+XDS 100 V.2.0 USB Emulator
+01
+Rs.7875/-
+
+
+BNC DSO probes (200 MHz, 1X/10X),P2220, Make:  Tektronix
+05
+Rs.63,000/-
+
+Digital sound level meter (40 dB-130 dB)
+01
+Rs.12,600/-
+
+Electrical Consumables for UG/PG/research Labs, Faculty rooms etc..
+For 
+~5 years
+Rs.5,00,000/-
+Sub total (A) in Rs.
+Rs.65,42,460/-
+Equipment’s from Funded research Projects 
+Sanctioned Under IMPRINT-INDIA Project, File: No.: IMP/2019/000295
+
+Make: RIGOL 
+Digital Oscilloscope with Differential Voltage Probes & Current Probes:
+• Four channel                                                                                  • Band Width >= 200-500MHz                                                        
+
+01
+Rs.6,10,890.00
+
+
+Differential Voltage Probes:
+Band Width >= 50 MHz & Peak Voltage Rating >= 1000V.
+02
+Rs.2,80,980.00
+
+Current Probes: 
+Bandwidth,>= 1MHz & Peak Current Rating>=50A
+02
+Rs.1,21,590.00
+
+Programmable DC Power Supply with PV Simulator: • Input: 340-460V AC, 45-66 Hz, 3-Phase
+• Output Power Rating :10KW
+• Output Voltage Rating:  0-750V Variable DC
+01
+Rs.7,46,550.00
+
+Pump Load with Coupling for SRM
+01
+Rs.4,77,624.00
+
+Torque (1Nos) and position sensor (01Nos), Voltage sensors (04Nos), Current sensors (4 Nos)
+01 set
+
+
+1KVA UPS with 2 Batteries of 100AH/12V
+1 set
+Rs.49650.00
+
+DSP & FPGA Kits 2 each
+2+2
+Rs.2,08,561.00
+Subtotal (B) in Rs.
+Rs.24,95,845.00
+Sanctioned Under EMR-SERB-DST Project, File: No.:EMR/2017/004913
+
+Temperature controlled soldering/ desoldering and rework station.
+01
+Rs.29,400.00
+
+Manual coil winding Machine
+01
+Rs.31,500.00
+
+ESD MAT for PCB assembly Bench
+01
+Rs.26,250.00
+
+Power Analyzer with Compatible Voltage & Current Probes
+01
+Rs.7,56,000.00
+Subtotal (C) in Rs.
+Rs.843,150.00
+Equipment Cost in Grand Total (A+B+C) in Rs.
+
+Rs.98,81,455.00
+
+Organized Workshops/STTPs/SDP/ FDP’s:
+
+Eight-Day FDP: “Advancements in Electric Vehicles and Autonomous Mobility for a Sustainable Future”, 07th July – 14th July 2025, Sponsored by Ministry of Electronics and Information Technology (MeitY), Government of India, organized .by BVRIT-College of Engineering for Women, Hyderabad, in association with Electronics & ICT Academy, NIT Warangal.
+Five-Day GIAN course: Non-invasive Fault Diagnosis of Propulsion Motors used in Electric Vehicles, 09th – 13th December 2024, Dr. T. Ilamparithi, University of Victoria, Canada. Coordinator:  AV Giridhar, Co-Coordinator:  BL Narasimharaju
+Ten-Day Faculty Development Programme (FDP): “Power Electronics Technology for Self-Reliant and Viksit Bharat”, 24th Feb to 06th March 2025, organised by E & ICT Academy & Department of Electrical Engineering, NIT Warangal, in association with VNIT Nagpur, M.S., India, Sponsored by Electronics & ICT Academy, NIT Warangal, under the Ministry of Electronics and Information Technology (MeitY), GOI.
+Ten-Day Faculty Development Programme (FDP): “Empowering the Future Advancements in Power Electronics for Electric Vehicles and Renewable Energy”, (17th – 27th March 2025) Organized by E & ICT Academy & NIT Warangal, In Association with NIT Karnataka, Surathkal, Sponsored by Electronics & ICT Academy, NIT Warangal, under the Ministry of Electronics and Information Technology (MeitY), GOI.
+Ten-Day Faculty Development Programme (FDP): “Research Potential in Advanced Power Electronics & Renewable Energy”, 13th - 24th January, 2025, Jointly Organized by NIT Warangal and NHCE, Bengaluru, Sponsored by Electronics & ICT Academy, NIT Warangal, under the Ministry of Electronics and Information Technology (MeitY), GOI.
+Six-Day GIAN course: Medium Voltage Multilevel Inverters for High Power Industrial Drives for Manufacturing and Solar Generation Applications, 08th - 12th May 2023, sponsored by Global Initiative on Academic Network (GIAN), Ministry of Education, Govt. of India. Foreign Expert Professor: Prof. Akshay Rathore, IEEE Fellow.
+Two-Week Advanced ATAL-FDP: "Power Electronics, Energy Storage and Renewable Technologies (PEESRT) for E-Transportation in India (Advanced)", 06th – 18th March, 2023, Organized by GRIET, Hyderabad in association with Department of Electrical Engineering, NIT Warangal, Sponsored by, All India Council for Technical Education (AICTE), ATAL Academy New Delhi. (No. of Participants :50)
+Two-Week Basic Faculty Development Programme: "Power Electronics, Energy Storage and Renewable Technologies (PEESRT) for E-Transportation in India (Basic)", 13th – 25th February, 2023, Organized by GRIET, Hyderabad in association with Department of Electrical Engineering, NIT Warangal, Sponsored by, All India Council for Technical Education (AICTE), ATAL Academy New Delhi. (No. of Participants :50)
+Eight-Day E&ICT NITW-MNITJ FDP: "Role of Power Electronics & Advances in Infrastructure For E-Mobility in India", (RPEAIEI-2022), 11th -19th July 2022, EED NIT Warangal.  EICT Academy NITW, Sponsored by Ministry of Electronics and Information Technology (MeitY), GOI. (No. of Participants :50)
+Eight-Day EICT FDP: "Research Potential in Advanced Power Electronics & Renewable Energy" 23rd May, 2022 – 31st May, 2022, Jointly Organized by EED, NIT Warangal & EEE Dept. New Horzon College of Engineering (NHCE) Bengaluru, in association with E&ICT Academy, NIT Warangal, Sponsored by MeitY, GOI).   (No. of Participants :60)
+Ten-Day FDP: “Advanced Power Electronics, Drives & Storage Systems for E-Transportation in India" 25th April – 06th May 2022, Jointly Organized by EED, NIT Warangal & EEE Dept. GNITS Hyderabad, in association with Electronics & ICT Academy, NIT Warangal, Academy is Sponsored by the Ministry of Electronics and Information Technology (MeitY), GOI).   (No. of Participants :56)
+Eight-Day FDP:  “Modeling, Simulation and Control Of Advanced Power Converters” 28th March – 06th April 2022, Jointly Organized by EED, NIT Warangal & EEE Dept. GRIET Hyderabad, in association with Electronics & ICT Academy, NIT Warangal, Academy is Sponsored by the Ministry of Electronics and Information Technology (MeitY), GOI).   (No. of Participants :51)
+Eight-Day E&ICT NITW-GRIET FDP: "Power Electronics for Electric Vehicles and Renewable Energy Systems, (PEEVRES-2022), 16th - 24th March 2022, EED NIT Warangal & GRIET Hyderabad.  EICT Academy NITW, Sponsored by MeitY, GOI. (No. of Participants :50)
+Eight-Day E&ICT NITK-NITW FDP: "Application of Power Electronics in Electric Vehicles and Energy Storage", (APEEVES-2022), 14th - 22nd February 2022, EED NIT Warangal & NIT Karnataka.  EICT Academy NITW, Sponsored by Ministry of Electronics and Information Technology (MeitY), GOI. (No. of Participants :67)
+Five-Day Self-Finance FDP: "Potential Research Trends in Advanced Energy Conversion Technologies and Applications, 06 -10, December 2021, NIT Warangal & VIT Bhimavaram, association with CEP NIT Warangal.  (No. of Participants :40)
+Five Day AICTE ATAL FDP (Advanced): “Electric Transportation Infrastructure For E-Mobility in India” From 08-Aug-2021 To 12-Nov-2021. 
+  Five Day AICTE ATAL FDP (Elementary): “Electric Transportation Infrastructure For E-Mobility In India” 02nd – 06th Aug-2021. (Participants: 155/195)
+ Five-Day INDO-US National SPARC workshop: “Power Conversion Technologies for Renewable Energy and Micro-Grid Applications” organized by the Department of Electrical Engineering, NIT Warangal, 2nd to 6th March, 2021 under SPARC project, sponsored by MoE, GoI.
+Six-Day TLC Sponsored FDP: Teaching & Learning of Advanced Control Systems, 10th -16th August 2020, NIT Warangal. TLC under PMMMNMTT scheme, MoE (MHRD), GoI.
+Two-Week in-house SPARC Course: "Renewable Energy and Distributed Power Generation, 16th to 27th Dec 2019, NIT Warangal.
+Three Week in-House SPARC Course: "Analysis of High Gain Converters for Grid Connected Photovoltaic Systems", Week-1, Week-2 & Week-3 of July 2019, NIT Warangal.
+Five Day National SPARC Workshop: "Advanced Resonant Converters for Micro-Grid and Electric Transportation", Dates: 15th  – 19th  July, 2019, NIT Warangal
+Six-Day E&ICT Sponsored FDP: "Power Conversion Technologies and Applications", (PCTA-2109), 1st - 6Th May 2019, EED NIT Warangal. Sponsored by MeitY, GOI.
+Self-Financed Five-Day Short-Term-Course: “Resonant Converters and Applications”, 02nd July to 06Th July 2018, EED, NIT Warangal.
+TEQIP Phase-II Sponsored Three Day Workshop: "Power Control and Energy Management" 09th – 11th May 2013, EED NIT Warangal.  Coordinators: Prof. D M. Vinod Kumar & B.L. Narasimharaju.
+TEQIP Phase-II Sponsored Two Day Workshop: "Model Based Digital PWM Control Techniques for Power Electronics Applications, 25th – 26th October 2013, EED NIT Warangal. Coordinators: B.L. Narasimharaju & Dr. S. Srinivasa Rao.
+
+
+Organized/Committee/Track Chairs/TPC of Conferences: 
+General Chair, 2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (IEEE SeFeT 2024), 31 July - 03 August, 2024.
+Organizing Chair, IEEE 20th India Council International Conference, (IEEE INDICON 2023), 14th - 17th December 2023, NIT Warangal & Hyderabad IEEE section.
+Member, Steering Committee, IEEE IAS sponsored, 2023 IEEE 3rd International Conference on "Sustainable Energy and Future Electric Transportation" (IEEE SeFeT 2023), 09th - 12th August 2023, Institute of Technical Education and Research (ITER), Siksha 'O' Anusandhan Deemed University, Orissa, 
+Tutorial Chair/Technical Track Chair/Meta Reviewer, IEEE Power Electronics Drives and Energy System, PEDES 2022, 14-17 December 2022 Jaipur, Rajasthan, India, MNIT, Jaipur.
+Organizing Coordinator/Member, Special Session SS-05 “New Trends in Topological Development of Power Electronic Converters and its Control for Diverse-source fed Green Energy Applications” IEEE 19th India Council International Conference, (IEEE INDICON 2022), 24th - 26th November, Kochi, Kerala. Articles received: 26, Rejected: 03, Accepted & presented:23. https://www.indicon2022.org/special_sessions_2.html  
+Publication Chair & Technical Track Chair, IEEE Sustainable Energy and Future Electric Transportation, SeFeT 2022, 04– 06 Aug 2022, GREIT, Hyderabad, India.
+Technical Track Chair, IEEE Sustainable Energy and Future Electric Transportation, SeFeT 2021, 21– 23 Jan 2021, GREIT, Hyderabad, India.
+Tutorial Chair, IEEE Power Electronics Drives and Energy System, PEDES 2020, 16-19 December 2020 Jaipur, Rajasthan, India, MNIT, Jaipur.
+Technical Session Chair, 2020 IEEE Transportation Electrification Conference & Expo, ITEC2020 (Virtual Mode), 22nd - 26th June, 2020, Navy Pier, in Chicago, Illinois, USA.
+Member, Technical Programme Committee, IEEE 1st Int. Conference on Energy, Systems and Information Processing, IEEE- ICESIP, July 04 - 06, 2019, IIITD&M, Kancheepuram, India.
+Member, Advisory Committee, “National Conference on Technological Advances in Electronic Systems Design” (NCTAESD – 2014), 25-26, April 2014 at Vemana Institute of Technology Bangalore.
+Member, Technical Advisory Committee, and Session Judge, National Conference on Emerging and Innovative Trends in Power Electronics”, 27Th -28Th September 2013, Vignan University, Guntur, AP.  
+Coordinator, One day National Conference on "POWER CONVERTERS & ELECTRIC DRIVES (PCED – 2018) (1st November, 2018), EED NIT Warangal.  Coordinators:  B. L Narasimharaju, Dr. N. Vishwanathan, &  Dr. S. Porpandiselvi.
+Session Judge, National Systems Conference NSC-2016, 4-6 Nov 2016, NIT Warangal. 
+Member, Advisory Committee, “National Conference on Technological Advances in Electronic Systems Design” (NCTAESD – 2014), 25th – 26th, April 2014 at Vemana Institute of Technology Bangalore.
+Member, Organizing Committee, 5th National Conference AECT 2012, MIT Manipal, February 2012.
+Member, Organizing Committee, National Power Electronics Conference NPEC-2010, IITR, June-2010
+Member, Organizing Committee, 4Th International Conference CERA2009, IIT Roorkee, Feb 2010
+Member, Organizing Committee, XXXI National System Conference NSC-2007, MIT Manipal, 14-15 Dec 2007.
+Member, Organizing Committee, 1st National Conference AECT 2007, MIT Manipal, March 2007.
+Member, Organizing Committee, Industry Institute Interactive Meet, MIT Manipal, August 2004.
+
+Additional Department/Institute Responsibility:
+        Institute Level:
+Chairman, Hostel Purchase Committee, September 2024 to continuing 
+PIC-Institute Electrical Maintenance. 1st July 2024 to continuing.
+Institute ACs committee, since 25-03-2023 continuing.
+Member, Academic Audit Committees of the Departments (AACD) for the Electrical Department, 18th November 2022 to Till Date.
+Member, Electrical Works Committee (EWC), 19-01-2018 to May 2021.
+Faculty In-charge, Maintenance of Lifts in Institute, March/April 2018 to Dec 2019.
+Member, Grid Connected Solar PV Rooftop Project at NITW, MNRE-SPIN Under JNNSM, November 2015 to Till Date 
+Member, Centre of Excellence in "Sustainable Energy Studies", under TEQIP, Nov 2014 to till date
+Member, Institute Purchase Committee (IPC), NIT Andhra Pradesh, Since 26 May 2018 (2 Years)
+
+Department Level:
+Head of the Department, Electrical Engineering Dept., 25-11-2022 to 30-06-2024, AY2022-23 to Ay2023-2024.
+Chairperson, DAPOC-EE, Feb 2025 to till date
+Member, New MTech programme committee, Aug 2022 to January 2023.
+Member, Department's Strategic Plan (DSP), EE, from 26.10.2022 to till date
+Chairman, Department Purchase Committee (DPC), EE, NIT Warangal, 02-Jan-2023 to 31-06-2024.
+Member, Department Purchase Committee (DPC), EE, NIT Warangal, 20-July-2021 to 01-Jan-2023.
+Chairman, II-M.Tech(PED), Dissertation Works (A&B Parts) Evaluations, AY2021-22.
+Member, NEP2020 Curriculum Revision Committee, EE, NIT Warangal. AY2020-21. 
+Member, UG & PG-PED Coordinator, NBA-2020-21
+Coordinator, Moodle Training Courses, EE-NIT Warangal, AY2020-21, May 2020 to Till Date
+Programme Coordinator, M.Tech (Power Electronics & Drives), EE-NITW, 16-01-2020 to 11-07-2022
+Faculty Advisor,  Electrical Engineering Association (EEA), NIT Warangal AY-2018-19.
+Coordinator, PhD Research, Electrical Engineering, Ay2016-17 to AY2018-19.
+Chairman, IV B.Tech(EEE) Project Works (A&B Parts) Evaluations, AY2018-19
+Director Nominee, PG- Auto Mobile Engineering  (MED), Project Evaluations, June 18th & 19th 2018.
+Member, Dissertation Evaluations Part-A & B, II M.Tech (PED) AY-2017-18, Sem-I & II.
+Department Coordinator, Training & Placement, July 2014 to Oct 2018
+Faculty In-charge, Seminar-I, Evaluations, I M.Tech (PED) AY-2017-18, Sem-I
+Faculty In-charge, Control System Lab, EE, June 2012 to 24/10/2018.
+Faculty In-charge, Electrical Circuits Lab, EE, June 2012 to 24/10/2018
+Faculty Advisor (S)- IV B.TECH (EEE), July 2014 to  June 2015
+Faculty In-charge, Power Electronics Lab, EE, September 2014 to March 2015
+Member, IV BTech (EEE) Project Work Evaluation Committee, AY: 2013-14, AY: 2014-15
+Member, DAC-UG, EE, NIT Warangal, June 2012 to June 2014, AY:2012-13, AY:2013-14
+Treasurer, Electrical Engineering Association (EEA), NIT Warangal, June 2012 to June 2014 (EEA:2012-13, EEA:2013-14)
+Faculty Advisor (S)- II B.Tech (EEE), June 2012 to June 2014
+Other duties which are not recorded on paper like; PhD Registration & Compilation 2014 to 2017, PhD Applications scrutiny & Adoch - Faculty Applications scrutiny for about 5 semesters, Course files coordinator, NBA works, UG/PG syllabus revision committee and other various works as an when assigned by the HOD.
+Member, DSC, Department of EE, EC, ME and CE, NIT Warangal
+Member, Syllabus Revision Committee, B.Tech (EEE), during AY2017-2018. NIT Warangal
+Member, CCMT counselling for PG Admissions AY2018-19, May 2018 to July2018. NIT Warangal
+Teacher Guardian at MIT Manipal, 2003 to 2008.
+Member, ISO 9000:2001 implementation.
+University Representative, Conducting All India UGET & SMU distance education examinations, 2004 to 2007, MIT Manipal
+Member, Industry Institute Interactive Meet, Aug 2004. MIT Manipal.
+
+Other Outreach Academic Activities: 
+Keynote  Lecture/ Invited Expert Lectures Delivered at various FDPs/STTPs/WS etc
+S. No
+Title of Expert lecture/conference/workshop
+Organization Name and Place
+Date
+
+“Power Quality Issues “
+01st November 2013, Kakathiya Institute of Technology and Science Warangal, AP, AICTE sponsored Faculty Development Programme on “ Micro Grid and Distributed Generation”
+01st November 2013
+
+“Non-linear Loads and Power Quality Issues”
+28Th Sept. 2013, Vignan University, Guntur, AP, National Conference on “Emerging and Innovative Trends in Power Electronics”.
+28Th Sept. 2013
+
+“Modeling & Feedback Compensation of DC-DC Converter”
+11th May 2013, NIT Warangal, TEQIP Sponsored Three day workshop on Power Control and Energy Management.
+11th May 2013,
+
+ Grid Integrated Power Converters & Loads
+ 16th May 2014, Faculty Development programme (FDP) on “Advances in Power Electronics and Drives” During12th – 17th May, 2014. Dept.  of Electrical Engineering, University College of Engineering, Osmania University, Hyderabad, Andhra Pradesh-500 007.
+16th May 2014,
+
+Switched Reluctance Machine and its Application
+Two-day national workshop on Recent Advances in Power and Industrial Drives (RAPID - 2015) during 13th - 14th, March 2015.
+Department of EEE, UCEK, JNTUK, Kakinada
+13th March 2015.
+
+Resonant converters & Applications
+Non-linear loads and their issues 
+VTU-VGST Faculty development Program on "Advances in Power Electronics and Drives" conducted at University BDT College of Engineering, Davanagere, Karnataka on 5th -8th  June 2015.
+5th June 2015.
+
+Power Electronics for Grid & off-Grid Applications
+PEREEV 17,  FDP programme, MVGR College of Engg., Vizianagaram, Andhra Pradesh , 4th -9th DEC 2017
+9th Dec 2017
+
+Renewable Energy Systems & its Applications
+Jyothismathi Institute of Technology & Science, Karimnagar. 11/08/2018.
+11/08/2018
+
+Grid & off-grid fed LED Drivers for Lighting Applications
+Five day Self-Financed STTP on Resonant Converters & Applications,
+02nd July to 06Th July 2018, EED, NIT Warangal
+02nd July to 06Th July 2018
+
+Bidirectional Converters for Energy Storage Systems
+Five day Self-Financed STTP on Resonant Converters & Applications,
+02nd July to 06Th July 2018, EED, NIT Warangal
+02nd July to 06Th July 2018
+
+Power Converters & Control Techniques for Power Management System in Electric Vehicles
+Six day FDP on 'Strategies and ICT Tools for Hybrid Vehicles' 7th to 12th February, 2019), NIT Warangal
+7th to 12th February, 2019
+
+LED Drivers for Grid & off-Grid fed Lighting Systems,.
+
+Six Day Faculty Development Programme on Strategies and ICT Tools for “Power Conversion Technologies & Applications”, 1st to 6th May 2019, NIT Warangal
+1st to 6th May 2019
+
+Soft-switched LED Drivers
+Five Day National SPARC Workshop on Advanced Resonant Converters for Micro-Grid and Electric Transportation, 15th to 19th July 2019, NIT Warangal.
+15th to 19th July 2019
+
+Power Converters and Control in Smart Power Systems
+Five Day Online, FDP on “Challenges and Opportunities in smart grid” organized by the department of EEE, M S Ramaiah Institute of Technology, Bangalore, India, in association with IEEE PES Bangalore chapter. 20-July to 24 -July 2020.
+20-July to 24 -July 2020.
+
+Power Converters and Control Techniques for Power Management System in Electric Vehicles"
+AICTE Training and Learning (ATAL)Academy Sponsored One-week Faculty Development Programme on APPLICATION OF POWER ELECTRONICS IN SMART GRID AND ELECTRIC VEHICLE (APESGEV - 2020), Department of Electrical and Electronics Engineering, Nalla Malla Reddy Engineering College, Hyderabad.
+08-29-2020
+
+Power Converters and Control Techniques for Power Management System in Electric Vehicles"
+AICTE sponsored Online Short Term training Programme (STTP) on “Recent Trends on Hybrid and Electric Vehicle Technologies” during 6th -11th of July 2020 under the auspices of Mechanical Engineering Department, MVGR College of Engineering, Vizianagaram, Andhra Pradesh, India
+6th -11th of July 2020
+
+Power Management Systems in Electric Vehicles: Power Converters & Control Techniques
+TEQIP-III Sponsored, Five Day online FDP on " Power Electronic Applications in Electric Vehicles and Energy Storage " scheduled from 25-29 January 2021., NIT Surathkal, Karnataka
+25-29 January 2021.
+
+Power Conditioning & Management Systems in Electric Vehicle.
+One day webinar on 'Advances in Automobile Engineering', under AICTE Margadarshan, organised by Department of Mechanical Engineering,V.R.Siddhartha Engineering College, Vijayawada,AP. wednesday, 28th April 2021
+28th April 2021
+
+Power Conditioning & Management Systems in Electric Vehicles
+Electrical and Electronics Engineering Department, Vignan institute of Technology and Science Deshmukhi, Hyderabad 
+26/06/2021
+
+Bidirectional Converters for Battery Storage interface in EV, G2V & V2G applications
+Five Day AICTE ATAL Elementary FDP on "Electric Transportation Infrastructure For E-Mobility In India"  02nd to 06th August 2021,  NIT Warangal,
+06/08/2021
+
+Grid Fed AC-DC Converters for EV Charging/LED Lighting Applications
+Five Day Online FDP On
+“Potential Research Trends in Advanced Energy Conversion Technologies and Applications”
+Organized by Center for Continuing Education, NIT Warangal and
+EEE Department, VIT Bhimavaram
+09-12-2021
+
+Driver Circuits for High Bright LED Lights in EVs
+Eight-Day Online FDP On Application Of Power Electronics In Electric Vehicles And Energy Storage (14th – 22nd February, 2022) organized NITW-NITK joint FDP
+15.02.2022 Tuesday
+
+LED Power Driver Circuits for High bright Lighting Systems
+SERB (Accelerate Vigyan Program)-sponsored one-week High-End Workshop “KARYASHALA” on "Modelling, Simulation and Hands-on Practice on Control of Power Electronics Converters for Green Energy Applications” dated July 05th-11th 2023., MNIT Jaipur. 
+10th July 2023
+
+Power Driver Circuits for High Bright LED Lighting Systems. Keynote Talk
+Keynote Speaker at 2023 IEEE Silchar Subsection Conference (IEEE SILCON-2023), from 3-5 November 2023 at National Institute of Technology Silchar in Hybrid mode.
+4th November 2023
+
+LED Power Driver Circuits for High bright Lighting Systems Keynote Talk
+Keynote Speaker: IEEE 3rd International Conference on "Sustainable Energy and Future Electric Transportation" (IEEE SeFeT 2023), 09th - 12th August 2023, Institute of Technical Educationa and Research (ITER), Siksha 'O' Anusandhan Deemed University, Orissa,
+10 Aug 2023
+
+Research Motivation on Energy Efficient Systems"  Technical Talk
+Invited talk, IEEE-IAS Joint Chapter, Silchar Subsection, NIT Silchar,
+3rd March 2024
+
+Invited Expert Talk on An Essence & Motivation", Energy Efficient Lighting Systems
+14-Nov-2024, SR University, Warangal, 14-Nov-2024, 
+
+
+Invited Talk on LED Power Drivers
+RGKIT Basar, 26-Feb-2025. Online Mode,
+
+
+Invited Talk on "Power Converters for LED Drives in EV"
+EEE Dept., NIT Surathkal Karnata, 19-March-2025, Online Mode
+
+
+Invited Talk on "Bidirectional Power Converters"
+EEE Dept., NIT Surathkal Karnata, 23-March-2025, Online Mode
+
+
+
+Expert/Guest Lectures organized:
+S. No.
+Name of the Expertise
+Lecture Title
+Date
+Faculty Advisor/Treasurer
+1.
+Dr. BaddamAnantha Reddy, Managing Director of Pious Electronics Pvt. Ltd., Sukhila Power Electronics Pvt. Ltd. and Infinity Projects Pvt. Ltd.
+Role of Energy Storage Systems in Electric Vehicle Systems
+26/09/2018
+Dr.B.L.Narasaimharaju
+& Dr. A.V Giridhar
+2.
+Dr. Amarjyot Singh, Founder and CEO Skylark Labs and 2011 Alumnus of EEE Department, NIT Warangal
+Contemporary Surveillance Systems - Face Recognition to Drones
+04/10/2018
+
+3.
+Sri. Sainath M Moorthy, Principal, market design and analysis at the Electric Reliability Council of Texas
+ERCOT electricity markets overview and emerging challenges
+30/01/2019
+
+4.
+Sri. Kailash Chandra Keshre, Electrical Head (Rtd), Tata Consulting Engineers Limited, Bangalore
+Practical aspects of LT Switchgear protection
+
+
+5.
+Sri Kameswara Rao, Associate Professor Civil Engineering Department, NIT Warangal.
+Philosophy of linear systems
+19/02/2019
+
+6.
+Dr. M. Sydulu, Professor, Electrical Engineering Department, NITWarangal.
+Recent trends in power systems and its challenges
+27/03/2019
+
+
+Other Outreach Professional academic/research activities:
+Member, Governing Body Meeting at Vignan Institute of Technology and Science, Nalgonda. Since January 2020.   https://vignanits.ac.in/about-us/#Governing_Body
+Director/Advisor, M/s. Zunik Energies (erstwhile Arka Energies), Incubated Start-Up funded by IIT Roorkee, since 25th Sept 2017.
+BOS member, Examiner/Evaluator for Ph.D Thesis/ M.Tech Dissertations at various universities/institutes including NITs/IIITs, reputed Deemed Universities..
+Member, Doctoral Advisory Committee, MIT Manipal, Manipal University, since 2017 to till date.
+Member, Doctoral Advisory Committee, SRM University, Amaravahti, Andra Pradesh.
+Editorial Board Member, International Journal of Engineering Science and Technology (IRJEST)
+
+Few Blessed Personal Thoughts Only:
+Imparting Valuable True and Desired Knowledge/Skills is a Moral & Social Responsibility and a Great Work of the Human for the Betterment of the Nature and Everyone's Life.  Nothing Beyond a Continuous Good Works with Worship, Honesty and Sincerity. So, the Only Way to Successful, Meaningful and Peaceful Life, is, a Continuous Good Works with “Rightful Objective & Worship, Sincere Commitment, Honesty, Unbiased and Unselfish Contribution of a True Individual”.  
+Education without Right Discipline, Right Attitude, Integrity, Honesty, and Compassion, is, a Disaster to the Nature, Society, and Quality of Human Life.
+Valuable Right Knowledge and Intellectual Skills with a Truly Educated Individual with Good Attitude, Transparency, Integrity, Honesty, and Compassion, Will Provide Way for Respectful, Quality & Dignified Life in a Society.
+Any Desired Profession with Transparency, Unbiased, Integrity, and Kindness, is, a Great Divine for Blessed and Beautiful Life in a True Nature. 
+
+For Detailed Profile Click URL links : https://erp.nitw.ac.in/ext/profile/ee-blnraju 
+
+Yours Sincerely 
+B L Narasimharaju
